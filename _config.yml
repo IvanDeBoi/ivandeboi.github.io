@@ -1,5 +1,5 @@
 title: Ivan De Boi
-#logo: /assets/me.png
+logo: /assets/me.jpg
 #description: This is me
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
