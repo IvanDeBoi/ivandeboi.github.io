@@ -53,6 +53,9 @@ Publication number: WO2022/122834
 - 25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
 - 16/11/2017, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
 
+## Network on GPs
+In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor Søren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
+
 ## Misc
 - I regularly review for IEEE Transactions on Instrumentation and Measurement, Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics.
 - I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
