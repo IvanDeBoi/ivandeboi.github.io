@@ -8,7 +8,7 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 [https://orcid.org/0000-0003-3060-262X](https://orcid.org/0000-0003-3060-262X)
 
 
-<a href="https://www.linkedin.com/in/ivan-de-boi-8014144/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+<a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 
 # Work Experience
 - Feb 2021 - present, PhD student University of Antwerp
