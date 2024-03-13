@@ -1,8 +1,8 @@
 title: Ivan De Boi
 logo: /assets/images/me.png
-#description: This is me
-email: ivan.deboi@gmail.com
-github_username:  ivandeboi
+author:
+  name: Evan Will
+  email: your-email@domain.com
 show_downloads: false
 #theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
