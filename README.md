@@ -11,7 +11,7 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 - Feb 2002 - Feb 2007, Application Engineer VRT
 - Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
 
-# Projects and Acquired Grants (not including small stuff like travel grants etc.)
+# Acquired Grants
 I was a lecturer for over twelve years at the Karel de Grote Hogeschool (programming, AR/VR, 3D, artificial intelligence). I combined this with being a research coordinator. I applied for and got granted the following projects, which I also supervised during execution:
 
 - 20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
@@ -22,7 +22,7 @@ I was a lecturer for over twelve years at the Karel de Grote Hogeschool (program
 - 19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% by me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
 - 2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% by me
 
-Overall > 1M€
+Overall > 1M€, not including small stuff like travel grants etc.
 
 # Scientific Output and Impact
 
@@ -140,7 +140,8 @@ ImmersiMed: Cross-platform simulation training
 Jorissen Pieter, De Boi Ivan
 Digit Med [serial online] 2018  Available from: http://www.digitmedicine.com/text.asp?2018/4/4/166/248975
 
-# Mock Publications (do not take these seriously)
+# Mock Publications
+Do not take these seriously. Although, ...
 - Happy Edward Goodwin Day, aka the more sensible pi-day [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/EGD_2023.pdf)
 - On the Tardiness of my Coworkers and How To Exploit it [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf)
   
