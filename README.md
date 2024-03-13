@@ -53,7 +53,7 @@ Publication number: WO2022/122834
 - 25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
 - 16/11/2017, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
 
-## Network on GPs
+## Network on Gaussian Processes
 In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor Søren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
 
 ## Misc
@@ -67,60 +67,60 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 ## 2024
 ### A1 Journal
 
-Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression
-De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim
-Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770
+Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression,
+De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim,
+Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770,
 [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ## 2023
 ### A1 Journal
 
-A phase correlation based peak detection method for accurate shape from focus measurements
-Gladines Jona, Sels Seppe, De Boi Ivan, Vanlanduit Steve
-Measurement / International Measurement Confederation - ISSN 1873-412X - 213(2023), 112726
+A phase correlation based peak detection method for accurate shape from focus measurements,
+Gladines Jona, Sels Seppe, De Boi Ivan, Vanlanduit Steve,
+Measurement / International Measurement Confederation - ISSN 1873-412X - 213(2023), 112726,
 [https://doi.org/10.1016/J.MEASUREMENT.2023.112726](https://doi.org/10.1016/J.MEASUREMENT.2023.112726)
 
-Enhanced checkerboard detection using Gaussian processes
-Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve
-Mathematics - ISSN 2227-7390 - 11:22(2023), 4568
+Enhanced checkerboard detection using Gaussian processes,
+Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve,
+Mathematics - ISSN 2227-7390 - 11:22(2023), 4568,
 [https://doi.org/10.3390/MATH11224568](https://doi.org/10.3390/MATH11224568)
 
-On the angular control of rotating lasers by means of line calculus on hyperboloids
-Penne Rudi, De Boi Ivan, Vanlanduit Steve
-Sensors - ISSN 1424-8220 - 23:13(2023), 6126
+On the angular control of rotating lasers by means of line calculus on hyperboloids,
+Penne Rudi, De Boi Ivan, Vanlanduit Steve,
+Sensors - ISSN 1424-8220 - 23:13(2023), 6126,
 [https://doi.org/10.3390/S23136126](https://doi.org/10.3390/S23136126)
 
-Surface approximation by means of Gaussian process latent variable models and line element geometry
-De Boi Ivan, Ek Carl Henrik, Penne Rudi
-Mathematics - ISSN 2227-7390 - 11:2(2023), 380
+Surface approximation by means of Gaussian process latent variable models and line element geometry,
+De Boi Ivan, Ek Carl Henrik, Penne Rudi,
+Mathematics - ISSN 2227-7390 - 11:2(2023), 380,
 [https://doi.org/10.3390/MATH11020380](https://doi.org/10.3390/MATH11020380)
 
 
 ### P1 Conference
 
-How to turn your camera into a perfect pinhole model
-De Boi Ivan, Pathak Stuti, Oliveira Marina, Penne Rudi
-Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107
+How to turn your camera into a perfect pinhole model,
+De Boi Ivan, Pathak Stuti, Oliveira Marina, Penne Rudi,
+Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107,
 [https://doi.org/10.1007/978-3-031-49018-7_7](https://doi.org/10.1007/978-3-031-49018-7_7)
 
 ## 2022
 
 ### A1 Journal
 
-Dynamic line scan thermography parameter design via Gaussian process emulation
-Verspeek Simon, De Boi Ivan, Maldague Xavier, Penne Rudi, Steenackers Gunther
-Algorithms - ISSN 1999-4893 - 15:4(2022), 102
+Dynamic line scan thermography parameter design via Gaussian process emulation,
+Verspeek Simon, De Boi Ivan, Maldague Xavier, Penne Rudi, Steenackers Gunther,
+Algorithms - ISSN 1999-4893 - 15:4(2022), 102,
 [https://doi.org/10.3390/A15040102](https://doi.org/10.3390/A15040102)
 
-Input and output manifold constrained Gaussian process regression for galvanometric setup calibration
-De Boi Ivan, Sels Seppe, De Moor Olivier, Vanlanduit Steve, Penne Rudi
-IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2509408
+Input and output manifold constrained Gaussian process regression for galvanometric setup calibration,
+De Boi Ivan, Sels Seppe, De Moor Olivier, Vanlanduit Steve, Penne Rudi,
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2509408,
 [https://doi.org/10.1109/TIM.2022.3170968](https://doi.org/10.1109/TIM.2022.3170968)
 
 
-Semi data-driven calibration of galvanometric setups using Gaussian processes
-De Boi Ivan, Sels Seppe, Penne Rudi
-IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2503408
+Semi data-driven calibration of galvanometric setups using Gaussian processes,
+De Boi Ivan, Sels Seppe, Penne Rudi,
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2503408,
 [https://doi.org/10.1109/TIM.2021.3128956](https://doi.org/10.1109/TIM.2021.3128956)
 
 
@@ -128,22 +128,22 @@ IEEE transactions on instrumentation and measurement / Institute of Electrical a
 
 ### A1 Journal
 
-Feasibility of Kd-trees in Gaussian process regression to partition test points in high resolution input space
-De Boi Ivan, Ribbens Bart, Jorissen Pieter, Penne Rudi
-Algorithms - ISSN 1999-4893 - 13:12(2020), 327
+Feasibility of Kd-trees in Gaussian process regression to partition test points in high resolution input space,
+De Boi Ivan, Ribbens Bart, Jorissen Pieter, Penne Rudi,
+Algorithms - ISSN 1999-4893 - 13:12(2020), 327,
 [https://doi.org/10.3390/A13120327](https://doi.org/10.3390/A13120327)
 
 
 ### P2 Conference
-A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations
-De Boi Ivan, Jorissen Pieter
+A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations,
+De Boi Ivan, Jorissen Pieter,
 International Science Fiction Prototyping Conference 2020(SciFi-It'2020), 23-25 March, 2020, Ghent, Belgium - ISBN 978-94-92859-10-5 - Ostend, EUROSIS-ETI, 2020, p. 41-48
 
 ## 2018
 
 ### A1 Journal
-ImmersiMed: Cross-platform simulation training
-Jorissen Pieter, De Boi Ivan
+ImmersiMed: Cross-platform simulation training,
+Jorissen Pieter, De Boi Ivan,
 [http://www.digitmedicine.com/text.asp?2018/4/4/166/248975](http://www.digitmedicine.com/text.asp?2018/4/4/166/248975)
 
 # Mock Publications
