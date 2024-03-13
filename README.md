@@ -29,6 +29,7 @@ Overall > 1M€
 ## Patent
 Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION,
 Publication number: WO2022/122834
+
 [Patentscope](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
 
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
@@ -76,17 +77,17 @@ Measurement / International Measurement Confederation - ISSN 1873-412X - 213(202
 Enhanced checkerboard detection using Gaussian processes
 Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve
 Mathematics - ISSN 2227-7390 - 11:22(2023), 4568
-[https://doi.org/10.3390/MATH11224568](url)
+[https://doi.org/10.3390/MATH11224568](https://doi.org/10.3390/MATH11224568)
 
 On the angular control of rotating lasers by means of line calculus on hyperboloids
 Penne Rudi, De Boi Ivan, Vanlanduit Steve
 Sensors - ISSN 1424-8220 - 23:13(2023), 6126
-[https://doi.org/10.3390/S23136126](url)
+[https://doi.org/10.3390/S23136126](https://doi.org/10.3390/S23136126)
 
 Surface approximation by means of Gaussian process latent variable models and line element geometry
 De Boi Ivan, Ek Carl Henrik, Penne Rudi
 Mathematics - ISSN 2227-7390 - 11:2(2023), 380
-[https://doi.org/10.3390/MATH11020380](url)
+[https://doi.org/10.3390/MATH11020380](https://doi.org/10.3390/MATH11020380)
 
 
 ### P1 Conference
@@ -94,7 +95,7 @@ Mathematics - ISSN 2227-7390 - 11:2(2023), 380
 How to turn your camera into a perfect pinhole model
 De Boi Ivan, Pathak Stuti, Oliveira Marina, Penne Rudi
 Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107
-[https://doi.org/10.1007/978-3-031-49018-7_7](url)
+[https://doi.org/10.1007/978-3-031-49018-7_7](https://doi.org/10.1007/978-3-031-49018-7_7)
 
 ## 2022
 
@@ -103,18 +104,18 @@ Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107
 Dynamic line scan thermography parameter design via Gaussian process emulation
 Verspeek Simon, De Boi Ivan, Maldague Xavier, Penne Rudi, Steenackers Gunther
 Algorithms - ISSN 1999-4893 - 15:4(2022), 102
-[https://doi.org/10.3390/A15040102](url)
+[https://doi.org/10.3390/A15040102](https://doi.org/10.3390/A15040102)
 
 Input and output manifold constrained Gaussian process regression for galvanometric setup calibration
 De Boi Ivan, Sels Seppe, De Moor Olivier, Vanlanduit Steve, Penne Rudi
 IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2509408
-[https://doi.org/10.1109/TIM.2022.3170968](url)
+[https://doi.org/10.1109/TIM.2022.3170968](https://doi.org/10.1109/TIM.2022.3170968)
 
 
 Semi data-driven calibration of galvanometric setups using Gaussian processes
 De Boi Ivan, Sels Seppe, Penne Rudi
 IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2503408
-[https://doi.org/10.1109/TIM.2021.3128956](url)
+[https://doi.org/10.1109/TIM.2021.3128956](https://doi.org/10.1109/TIM.2021.3128956)
 
 
 ## 2020
@@ -124,7 +125,7 @@ IEEE transactions on instrumentation and measurement / Institute of Electrical a
 Feasibility of Kd-trees in Gaussian process regression to partition test points in high resolution input space
 De Boi Ivan, Ribbens Bart, Jorissen Pieter, Penne Rudi
 Algorithms - ISSN 1999-4893 - 13:12(2020), 327
-[https://doi.org/10.3390/A13120327](url)
+[https://doi.org/10.3390/A13120327](https://doi.org/10.3390/A13120327)
 
 
 ### P2 Conference
@@ -140,8 +141,8 @@ Jorissen Pieter, De Boi Ivan
 Digit Med [serial online] 2018  Available from: http://www.digitmedicine.com/text.asp?2018/4/4/166/248975
 
 # Mock Publications (do not take these seriously)
-- Happy Edward Goodwin Day, aka the more sensible pi-day [https://github.com/IvanDeBoi/ivandeboi.github.io/assets/mock_papers/EGD_2023.pdf](pdf)
-- On the Tardiness of my Coworkers and How To Exploit it [https://github.com/IvanDeBoi/ivandeboi.github.io/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf](pdf)
+- Happy Edward Goodwin Day, aka the more sensible pi-day [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/assets/mock_papers/EGD_2023.pdf)
+- On the Tardiness of my Coworkers and How To Exploit it [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf)
   
 
 
