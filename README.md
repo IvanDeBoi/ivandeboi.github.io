@@ -6,7 +6,7 @@
 I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. Currently I'm a PhD student at the University of Antwerp (expected date of defense is May 2024). My work focusses on Gaussian processes for the calibration of 3D measuring devices. My interest are probabilistic numerics and how to intertwine them with 3D line geometry.
 
 [https://orcid.org/0000-0003-3060-262X](https://orcid.org/0000-0003-3060-262X)
-
+[https://www.linkedin.com/in/ivan-de-boi-8014144/](https://www.linkedin.com/in/ivan-de-boi-8014144/)
 
 # Work Experience
 - Feb 2021 - present, PhD student University of Antwerp
@@ -31,7 +31,7 @@ Overall > 1M€, not including smaller applications for travel grants etc.
 # Scientific Output and Impact
 
 ## Patent
-Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION,
+Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION
 Publication number: WO2022/122834
 
 [Patentscope](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
