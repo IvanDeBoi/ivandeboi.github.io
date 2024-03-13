@@ -25,7 +25,7 @@ I was a lecturer for over twelve years at the Karel de Grote Hogeschool (program
 - 19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% by me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
 - 2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% by me
 
-Overall > 1M€, not including small stuff like travel grants etc.
+Overall > 1M€, not including smaller applications for travel grants etc.
 
 # Scientific Output and Impact
 
