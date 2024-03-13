@@ -141,7 +141,7 @@ International Science Fiction Prototyping Conference 2020(SciFi-It'2020), 23-25 
 ### A1 Journal
 ImmersiMed: Cross-platform simulation training
 Jorissen Pieter, De Boi Ivan
-Digit Med [serial online] 2018  Available from: http://www.digitmedicine.com/text.asp?2018/4/4/166/248975
+[http://www.digitmedicine.com/text.asp?2018/4/4/166/248975](http://www.digitmedicine.com/text.asp?2018/4/4/166/248975)
 
 # Mock Publications
 Do not take these seriously. Although, ...
