@@ -1,5 +1,5 @@
 # Merging Geometry with Machine Learning
-https://orcid.org/0000-0003-3060-262X
+[https://orcid.org/0000-0003-3060-262X](url)
 
 # About me
 I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. Currently I'm a PhD student at the University of Antwerp (expected date of defense is May 2024). My work focusses on Gaussian processes for the calibration of 3D measuring devices. My interest are probabilistic numerics and how to intertwine them with 3D line geometry.
@@ -29,9 +29,9 @@ Overall > 1M€
 ## Patent
 Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION,
 Publication number: WO2022/122834
-[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1](Patentscope)
 
-[Video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
+[https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen](YouTube video)
 
 ## Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
@@ -53,7 +53,7 @@ Publication number: WO2022/122834
 - I regularly review for IEEE Transactions on Instrumentation and Measurement, Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics.
 - I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
 - Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
-- Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink
+- Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) [https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink](url)
 - In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
 
 # Publications
@@ -63,7 +63,7 @@ Publication number: WO2022/122834
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim
 Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770
-https://doi.org/10.1016/J.ARTMED.2024.102770
+[https://doi.org/10.1016/J.ARTMED.2024.102770](url)
 
 
 ## 2023
@@ -72,22 +72,22 @@ https://doi.org/10.1016/J.ARTMED.2024.102770
 A phase correlation based peak detection method for accurate shape from focus measurements
 Gladines Jona, Sels Seppe, De Boi Ivan, Vanlanduit Steve
 Measurement / International Measurement Confederation - ISSN 1873-412X - 213(2023), 112726
-https://doi.org/10.1016/J.MEASUREMENT.2023.112726
+[https://doi.org/10.1016/J.MEASUREMENT.2023.112726](url)
 
 Enhanced checkerboard detection using Gaussian processes
 Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve
 Mathematics - ISSN 2227-7390 - 11:22(2023), 4568
-https://doi.org/10.3390/MATH11224568
+[https://doi.org/10.3390/MATH11224568](url)
 
 On the angular control of rotating lasers by means of line calculus on hyperboloids
 Penne Rudi, De Boi Ivan, Vanlanduit Steve
 Sensors - ISSN 1424-8220 - 23:13(2023), 6126
-https://doi.org/10.3390/S23136126
+[https://doi.org/10.3390/S23136126](url)
 
 Surface approximation by means of Gaussian process latent variable models and line element geometry
 De Boi Ivan, Ek Carl Henrik, Penne Rudi
 Mathematics - ISSN 2227-7390 - 11:2(2023), 380
-https://doi.org/10.3390/MATH11020380
+[https://doi.org/10.3390/MATH11020380](url)
 
 
 ### P1 Conference
@@ -95,7 +95,7 @@ https://doi.org/10.3390/MATH11020380
 How to turn your camera into a perfect pinhole model
 De Boi Ivan, Pathak Stuti, Oliveira Marina, Penne Rudi
 Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107
-Full text (DOI uitgever): https://doi.org/10.1007/978-3-031-49018-7_7
+[https://doi.org/10.1007/978-3-031-49018-7_7](url)
 
 ## 2022
 
@@ -104,18 +104,18 @@ Full text (DOI uitgever): https://doi.org/10.1007/978-3-031-49018-7_7
 Dynamic line scan thermography parameter design via Gaussian process emulation
 Verspeek Simon, De Boi Ivan, Maldague Xavier, Penne Rudi, Steenackers Gunther
 Algorithms - ISSN 1999-4893 - 15:4(2022), 102
-https://doi.org/10.3390/A15040102
+[https://doi.org/10.3390/A15040102](url)
 
 Input and output manifold constrained Gaussian process regression for galvanometric setup calibration
 De Boi Ivan, Sels Seppe, De Moor Olivier, Vanlanduit Steve, Penne Rudi
-IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers [New York, N.Y.] - ISSN 1557-9662 - 71(2022), 2509408
-https://doi.org/10.1109/TIM.2022.3170968
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2509408
+[https://doi.org/10.1109/TIM.2022.3170968](url)
 
 
 Semi data-driven calibration of galvanometric setups using Gaussian processes
 De Boi Ivan, Sels Seppe, Penne Rudi
-IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers [New York, N.Y.] - ISSN 1557-9662 - 71(2022), 2503408
-https://doi.org/10.1109/TIM.2021.3128956
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2503408
+[https://doi.org/10.1109/TIM.2021.3128956](url)
 
 
 ## 2020
@@ -125,7 +125,7 @@ https://doi.org/10.1109/TIM.2021.3128956
 Feasibility of Kd-trees in Gaussian process regression to partition test points in high resolution input space
 De Boi Ivan, Ribbens Bart, Jorissen Pieter, Penne Rudi
 Algorithms - ISSN 1999-4893 - 13:12(2020), 327
-https://doi.org/10.3390/A13120327
+[https://doi.org/10.3390/A13120327](url)
 
 
 ### P2 Conference
@@ -141,8 +141,8 @@ Jorissen Pieter, De Boi Ivan
 Digit Med [serial online] 2018  Available from: http://www.digitmedicine.com/text.asp?2018/4/4/166/248975
 
 # Mock Publications (do not take these seriously)
-- Happy Edward Goodwin Day, aka the more sensible pi-day https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/EGD_2023.pdf
-- On the Tardiness of my Coworkers and How To Exploit it https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf
+- Happy Edward Goodwin Day, aka the more sensible pi-day [https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/EGD_2023.pdf](pdf)
+- On the Tardiness of my Coworkers and How To Exploit it [https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf](pdf)
   
 
 
