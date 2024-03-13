@@ -1,5 +1,5 @@
 # Merging Geometry with Machine Learning
-[https://orcid.org/0000-0003-3060-262X](url)
+[https://orcid.org/0000-0003-3060-262X](https://orcid.org/0000-0003-3060-262X)
 
 # About me
 I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. Currently I'm a PhD student at the University of Antwerp (expected date of defense is May 2024). My work focusses on Gaussian processes for the calibration of 3D measuring devices. My interest are probabilistic numerics and how to intertwine them with 3D line geometry.
@@ -29,9 +29,9 @@ Overall > 1M€
 ## Patent
 Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION,
 Publication number: WO2022/122834
-[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1](Patentscope)
+[Patentscope](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
 
-[https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen](YouTube video)
+[YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
 ## Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
@@ -53,7 +53,7 @@ Publication number: WO2022/122834
 - I regularly review for IEEE Transactions on Instrumentation and Measurement, Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics.
 - I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
 - Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
-- Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) [https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink](url)
+- Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) [link](https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink)
 - In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
 
 # Publications
