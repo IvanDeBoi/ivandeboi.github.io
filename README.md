@@ -5,13 +5,13 @@
 # About me
 I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. Currently I'm a PhD student at the University of Antwerp (expected date of defense is May 2024). My work focusses on Gaussian processes for the calibration of 3D measuring devices. My interest are probabilistic numerics and how to intertwine them with 3D line geometry.
 
-<a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="500" height="600"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%40_symbol.svg"></a>
+<a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%40_symbol.svg"></a>
 
-<a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="500" height="600"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+<a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 
-<a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="500" height="600"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a>
+<a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a>
 
-<a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="500" height="600"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"></a>
+<a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"></a>
 
 # Work Experience
 - Feb 2021 - present, PhD student University of Antwerp
