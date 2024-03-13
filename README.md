@@ -1,70 +1,68 @@
 # Merging Geometry with Machine Learning
 https://orcid.org/0000-0003-3060-262X
 
-#### Technical Skills: Probabilistic numerics, Gaussian Processes, Line Geometry, AR/VR, Unity3D
+# Interests
+- Probabilistic numerics
+- Gaussian Processes
+- Line Geometry
+- AR/VR
+- Unity3D
 
-## Work Experience
+# Work Experience
 I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. Currently I'm a PhD student at the University of Antwerp (expected date of defense: 29 May 2024).
-Feb 2021 - present, PhD student University of Antwerp
-Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
-Feb 2017 - Jun 2017, Unity Developer, BUT (part time)
-Feb 2002 - Feb 2007, Application Engineer VRT
-Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
+- Feb 2021 - present, PhD student University of Antwerp
+- Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
+- Feb 2017 - Jun 2017, Unity Developer, BUT (part time)
+- Feb 2002 - Feb 2007, Application Engineer VRT
+- Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
 
-## Projects and Aquired Grants (not including small stuff like travel grants etc.)
+# Projects and Aquired Grants (not including small stuff like travel grants etc.)
 I was a lecturer for over twelve years at the Karel de Grote Hogeschool (programming, AR/VR, 3D, artificial intelligence). I combined this with being a research coordinator. I applied for and got granted the following projects, which I also supervised during execution:
 
-20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
-19-21, KdG PWO AI in XR, toolkit for AI-development in XR-applications, 138k€, 100% by me
-17-20, KdG ImmersiMed Innovation Fund, 37k€ , 100% by me
-18-21, VLAIO living lab Education 4.0, 100k€, 25% by me, 25% Catalisti, 25% imec, 25% ACTA
-19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data,191k€, 100% by me
-19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% by me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
-2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% by me
+- 20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
+- 19-21, KdG PWO AI in XR, toolkit for AI-development in XR-applications, 138k€, 100% by me
+- 17-20, KdG ImmersiMed Innovation Fund, 37k€ , 100% by me
+- 18-21, VLAIO living lab Education 4.0, 100k€, 25% by me, 25% Catalisti, 25% imec, 25% ACTA
+- 19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data,191k€, 100% by me
+- 19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% by me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
+- 2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% by me
 
 Overall > 1M€
 
-## Scientific Output and Impact
+# Scientific Output and Impact
 
-# Patent
+## Patent
 Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION,
 Publication number: WO2022/122834
 [https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
 [Video: https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen ](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
-# Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
-23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
-27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
-5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
-24/5/2023, On straight lines and machine learning, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
-1/2/2023, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
-7/4/2022, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
-7/9/2020, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
-12/12/2019, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
-24/11/2019, Dag van de wetenschap, VR demonstration Immersimed, an application to train medical personnel, >1000 attendees
-16/11/2018, Unlock the power of AR, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
-29/9-30/9 2018, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
-18/4/2018, Immersimed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
-25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
-16/11/2017, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
+## Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
+- 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
+- 27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
+- 5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
+- 24/5/2023, On straight lines and machine learning, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
+- 1/2/2023, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
+- 7/4/2022, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
+- 7/9/2020, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
+- 12/12/2019, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
+- 24/11/2019, Dag van de wetenschap, VR demonstration Immersimed, an application to train medical personnel, >1000 attendees
+- 16/11/2018, Unlock the power of AR, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
+- 29/9-30/9 2018, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
+- 18/4/2018, Immersimed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
+- 25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
+- 16/11/2017, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
 
-# Misc
-I regularly review for IEEE Transactions on Instrumentation and Measurement, Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics.
+## Misc
+- I regularly review for IEEE Transactions on Instrumentation and Measurement, Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics.
+- I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
+- Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
+- Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink
+- In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
 
-I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
-
-Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
-
-My paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) [https://www.mdpi.com/1999-4893/15/4? utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink
-Verspeek, S.; De Boi, I.; Maldague, X.; Penne, R.; Steenackers, G. Dynamic Line Scan Thermography
-Parameter Design via Gaussian Process Emulation. Algorithms 2022, 15, 102. https://doi.org/
-10.3390/a15040102](https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink)
-
-In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
-
-## Publications
-2024
-A1 Journal
+# Publications
+## 2024
+### A1 Journal
 
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim
@@ -72,8 +70,8 @@ Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770
 https://doi.org/10.1016/J.ARTMED.2024.102770
 
 
-2023
-A1 Journal
+## 2023
+### A1 Journal
 
 A phase correlation based peak detection method for accurate shape from focus measurements
 Gladines Jona, Sels Seppe, De Boi Ivan, Vanlanduit Steve
@@ -96,16 +94,16 @@ Mathematics - ISSN 2227-7390 - 11:2(2023), 380
 https://doi.org/10.3390/MATH11020380
 
 
-P1 Conference
+### P1 Conference
 
 How to turn your camera into a perfect pinhole model
 De Boi Ivan, Pathak Stuti, Oliveira Marina, Penne Rudi
 Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107
 Full text (DOI uitgever): https://doi.org/10.1007/978-3-031-49018-7_7
 
-2022
+## 2022
 
-A1 Journal
+### A1 Journal
 
 Dynamic line scan thermography parameter design via Gaussian process emulation
 Verspeek Simon, De Boi Ivan, Maldague Xavier, Penne Rudi, Steenackers Gunther
@@ -124,9 +122,9 @@ IEEE transactions on instrumentation and measurement / Institute of Electrical a
 https://doi.org/10.1109/TIM.2021.3128956
 
 
-2020
+## 2020
 
-A1 Journal
+### A1 Journal
 
 Feasibility of Kd-trees in Gaussian process regression to partition test points in high resolution input space
 De Boi Ivan, Ribbens Bart, Jorissen Pieter, Penne Rudi
@@ -134,14 +132,14 @@ Algorithms - ISSN 1999-4893 - 13:12(2020), 327
 https://doi.org/10.3390/A13120327
 
 
-P2 Conference
+### P2 Conference
 A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations
 De Boi Ivan, Jorissen Pieter
 International Science Fiction Prototyping Conference 2020(SciFi-It'2020), 23-25 March, 2020, Ghent, Belgium - ISBN 978-94-92859-10-5 - Ostend, EUROSIS-ETI, 2020, p. 41-48
 
-2018
+## 2018
 
-A1 Journal
+### A1 Journal
 ImmersiMed: Cross-platform simulation training
 Jorissen Pieter, De Boi Ivan
 Digit Med [serial online] 2018  Available from: http://www.digitmedicine.com/text.asp?2018/4/4/166/248975
