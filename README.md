@@ -16,7 +16,7 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 - Feb 2002 - Feb 2007, Application Engineer VRT
 - Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
 
-# Projects and Aquired Grants (not including small stuff like travel grants etc.)
+# Projects and Acquired Grants (not including small stuff like travel grants etc.)
 I was a lecturer for over twelve years at the Karel de Grote Hogeschool (programming, AR/VR, 3D, artificial intelligence). I combined this with being a research coordinator. I applied for and got granted the following projects, which I also supervised during execution:
 
 - 20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
