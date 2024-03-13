@@ -13,8 +13,6 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 
 <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"></a>
 
-![My Image](/assets/images/mail.svg){:width="10%"}
-
 # Work Experience
 - Feb 2021 - present, PhD student University of Antwerp
 - Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
