@@ -9,7 +9,7 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 
 # Upcoming work
 
-![Image Alt text](/assets/images/How to get more out of endoscopic images.pdf)
+![Image Alt text](/assets/images/endo.png)
 
 # Work Experience
 - Feb 2021 - present, PhD student University of Antwerp
@@ -37,9 +37,12 @@ Overall > 1M€, not including smaller applications for travel grants etc.
 Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION
 Publication number: WO2022/122834
 
+![Image Alt text](/assets/images/vsn.png)
+
 [Patentscope](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
 
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
+
 
 ## Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
