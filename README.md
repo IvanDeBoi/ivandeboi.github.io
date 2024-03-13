@@ -143,3 +143,11 @@ International Science Fiction Prototyping Conference 2020(SciFi-It'2020), 23-25 
 ImmersiMed: Cross-platform simulation training
 Jorissen Pieter, De Boi Ivan
 Digit Med [serial online] 2018  Available from: http://www.digitmedicine.com/text.asp?2018/4/4/166/248975
+
+# Mock Publications (do not take these seriously)
+- Happy Edward Goodwin Day, aka the more sensible pi-day https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/EGD_2023.pdf
+- On the Tardiness of my Coworkers and How To Exploit it https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf
+  
+
+
+
