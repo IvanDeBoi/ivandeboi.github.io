@@ -63,7 +63,7 @@ Publication number: WO2022/122834
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim
 Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770
-[doi](https://doi.org/10.1016/J.ARTMED.2024.102770)
+[https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ## 2023
 ### A1 Journal
@@ -71,7 +71,7 @@ Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770
 A phase correlation based peak detection method for accurate shape from focus measurements
 Gladines Jona, Sels Seppe, De Boi Ivan, Vanlanduit Steve
 Measurement / International Measurement Confederation - ISSN 1873-412X - 213(2023), 112726
-[https://doi.org/10.1016/J.MEASUREMENT.2023.112726](url)
+[https://doi.org/10.1016/J.MEASUREMENT.2023.112726](https://doi.org/10.1016/J.MEASUREMENT.2023.112726)
 
 Enhanced checkerboard detection using Gaussian processes
 Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve
