@@ -63,8 +63,7 @@ Publication number: WO2022/122834
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim
 Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770
-[https://doi.org/10.1016/J.ARTMED.2024.102770](url)
-
+[doi](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ## 2023
 ### A1 Journal
