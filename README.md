@@ -30,7 +30,8 @@ Overall > 1M€
 Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION,
 Publication number: WO2022/122834
 [https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
-[Video: https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen ](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
+
+[Video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
 ## Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
