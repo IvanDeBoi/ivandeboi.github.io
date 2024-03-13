@@ -69,7 +69,7 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression,
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim,
-Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770,
+Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 
 [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ## 2023
@@ -77,22 +77,22 @@ Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770,
 
 A phase correlation based peak detection method for accurate shape from focus measurements,
 Gladines Jona, Sels Seppe, De Boi Ivan, Vanlanduit Steve,
-Measurement / International Measurement Confederation - ISSN 1873-412X - 213(2023), 112726,
+Measurement / International Measurement Confederation - ISSN 1873-412X - 213(2023),
 [https://doi.org/10.1016/J.MEASUREMENT.2023.112726](https://doi.org/10.1016/J.MEASUREMENT.2023.112726)
 
 Enhanced checkerboard detection using Gaussian processes,
 Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve,
-Mathematics - ISSN 2227-7390 - 11:22(2023), 4568,
+Mathematics - ISSN 2227-7390 - 11:22(2023),
 [https://doi.org/10.3390/MATH11224568](https://doi.org/10.3390/MATH11224568)
 
 On the angular control of rotating lasers by means of line calculus on hyperboloids,
 Penne Rudi, De Boi Ivan, Vanlanduit Steve,
-Sensors - ISSN 1424-8220 - 23:13(2023), 6126,
+Sensors - ISSN 1424-8220 - 23:13(2023),
 [https://doi.org/10.3390/S23136126](https://doi.org/10.3390/S23136126)
 
 Surface approximation by means of Gaussian process latent variable models and line element geometry,
 De Boi Ivan, Ek Carl Henrik, Penne Rudi,
-Mathematics - ISSN 2227-7390 - 11:2(2023), 380,
+Mathematics - ISSN 2227-7390 - 11:2(2023),
 [https://doi.org/10.3390/MATH11020380](https://doi.org/10.3390/MATH11020380)
 
 
@@ -109,18 +109,18 @@ Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107
 
 Dynamic line scan thermography parameter design via Gaussian process emulation,
 Verspeek Simon, De Boi Ivan, Maldague Xavier, Penne Rudi, Steenackers Gunther,
-Algorithms - ISSN 1999-4893 - 15:4(2022), 102,
+Algorithms - ISSN 1999-4893 - 15:4(2022),
 [https://doi.org/10.3390/A15040102](https://doi.org/10.3390/A15040102)
 
 Input and output manifold constrained Gaussian process regression for galvanometric setup calibration,
 De Boi Ivan, Sels Seppe, De Moor Olivier, Vanlanduit Steve, Penne Rudi,
-IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2509408,
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022),
 [https://doi.org/10.1109/TIM.2022.3170968](https://doi.org/10.1109/TIM.2022.3170968)
 
 
 Semi data-driven calibration of galvanometric setups using Gaussian processes,
 De Boi Ivan, Sels Seppe, Penne Rudi,
-IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022), 2503408,
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers - ISSN 1557-9662 - 71(2022),
 [https://doi.org/10.1109/TIM.2021.3128956](https://doi.org/10.1109/TIM.2021.3128956)
 
 
@@ -130,7 +130,7 @@ IEEE transactions on instrumentation and measurement / Institute of Electrical a
 
 Feasibility of Kd-trees in Gaussian process regression to partition test points in high resolution input space,
 De Boi Ivan, Ribbens Bart, Jorissen Pieter, Penne Rudi,
-Algorithms - ISSN 1999-4893 - 13:12(2020), 327,
+Algorithms - ISSN 1999-4893 - 13:12(2020),
 [https://doi.org/10.3390/A13120327](https://doi.org/10.3390/A13120327)
 
 
