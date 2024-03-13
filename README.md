@@ -37,11 +37,6 @@ Publication number: WO2022/122834
 
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen">
-Your browser does not support the video tag.
-</video>
-
 ## Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
 - 27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
