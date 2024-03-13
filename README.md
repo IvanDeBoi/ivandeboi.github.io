@@ -1,55 +1,147 @@
-# Data Scientist
+# Merging Geometry with Machine Learning
+https://orcid.org/0000-0003-3060-262X
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+#### Technical Skills: Probabilistic numerics, Gaussian Processes, Line Geometry, AR/VR, Unity3D
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. Currently I'm a PhD student at the University of Antwerp (expected date of defense: 29 May 2024).
+Feb 2021 - present, PhD student University of Antwerp
+Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
+Feb 2017 - Jun 2017, Unity Developer, BUT (part time)
+Feb 2002 - Feb 2007, Application Engineer VRT
+Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Projects and Aquired Grants (not including small stuff like travel grants etc.)
+I was a lecturer for over twelve years at the Karel de Grote Hogeschool (programming, AR/VR, 3D, artificial intelligence). I combined this with being a research coordinator. I applied for and got granted the following projects, which I also supervised during execution:
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
+19-21, KdG PWO AI in XR, toolkit for AI-development in XR-applications, 138k€, 100% by me
+17-20, KdG ImmersiMed Innovation Fund, 37k€ , 100% by me
+18-21, VLAIO living lab Education 4.0, 100k€, 25% by me, 25% Catalisti, 25% imec, 25% ACTA
+19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data,191k€, 100% by me
+19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% by me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
+2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% by me
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Overall > 1M€
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## Scientific Output and Impact
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+# Patent
+Patent: COMPUTER IMPLEMENTED METHOD AND SYSTEM FOR MAPPING SPATIAL ATTENTION,
+Publication number: WO2022/122834
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
+[Video: https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen ](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+# Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
+23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
+27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
+5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
+24/5/2023, On straight lines and machine learning, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
+1/2/2023, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
+7/4/2022, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
+7/9/2020, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
+12/12/2019, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
+24/11/2019, Dag van de wetenschap, VR demonstration Immersimed, an application to train medical personnel, >1000 attendees
+16/11/2018, Unlock the power of AR, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
+29/9-30/9 2018, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
+18/4/2018, Immersimed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
+25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
+16/11/2017, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
 
-![Bike Study](/assets/img/bike_study.jpeg)
+# Misc
+I regularly review for IEEE Transactions on Instrumentation and Measurement, Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
+
+My paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) [https://www.mdpi.com/1999-4893/15/4? utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink
+Verspeek, S.; De Boi, I.; Maldague, X.; Penne, R.; Steenackers, G. Dynamic Line Scan Thermography
+Parameter Design via Gaussian Process Emulation. Algorithms 2022, 15, 102. https://doi.org/
+10.3390/a15040102](https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink)
+
+In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+2024
+A1 Journal
 
-- [Data Science Blog](https://medium.com/@shawhin)
+Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression
+De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim
+Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 102770
+https://doi.org/10.1016/J.ARTMED.2024.102770
+
+
+2023
+A1 Journal
+
+A phase correlation based peak detection method for accurate shape from focus measurements
+Gladines Jona, Sels Seppe, De Boi Ivan, Vanlanduit Steve
+Measurement / International Measurement Confederation - ISSN 1873-412X - 213(2023), 112726
+https://doi.org/10.1016/J.MEASUREMENT.2023.112726
+
+Enhanced checkerboard detection using Gaussian processes
+Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve
+Mathematics - ISSN 2227-7390 - 11:22(2023), 4568
+https://doi.org/10.3390/MATH11224568
+
+On the angular control of rotating lasers by means of line calculus on hyperboloids
+Penne Rudi, De Boi Ivan, Vanlanduit Steve
+Sensors - ISSN 1424-8220 - 23:13(2023), 6126
+https://doi.org/10.3390/S23136126
+
+Surface approximation by means of Gaussian process latent variable models and line element geometry
+De Boi Ivan, Ek Carl Henrik, Penne Rudi
+Mathematics - ISSN 2227-7390 - 11:2(2023), 380
+https://doi.org/10.3390/MATH11020380
+
+
+P1 Conference
+
+How to turn your camera into a perfect pinhole model
+De Boi Ivan, Pathak Stuti, Oliveira Marina, Penne Rudi
+Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107
+Full text (DOI uitgever): https://doi.org/10.1007/978-3-031-49018-7_7
+
+2022
+
+A1 Journal
+
+Dynamic line scan thermography parameter design via Gaussian process emulation
+Verspeek Simon, De Boi Ivan, Maldague Xavier, Penne Rudi, Steenackers Gunther
+Algorithms - ISSN 1999-4893 - 15:4(2022), 102
+https://doi.org/10.3390/A15040102
+
+Input and output manifold constrained Gaussian process regression for galvanometric setup calibration
+De Boi Ivan, Sels Seppe, De Moor Olivier, Vanlanduit Steve, Penne Rudi
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers [New York, N.Y.] - ISSN 1557-9662 - 71(2022), 2509408
+https://doi.org/10.1109/TIM.2022.3170968
+
+
+Semi data-driven calibration of galvanometric setups using Gaussian processes
+De Boi Ivan, Sels Seppe, Penne Rudi
+IEEE transactions on instrumentation and measurement / Institute of Electrical and Electronics Engineers [New York, N.Y.] - ISSN 1557-9662 - 71(2022), 2503408
+https://doi.org/10.1109/TIM.2021.3128956
+
+
+2020
+
+A1 Journal
+
+Feasibility of Kd-trees in Gaussian process regression to partition test points in high resolution input space
+De Boi Ivan, Ribbens Bart, Jorissen Pieter, Penne Rudi
+Algorithms - ISSN 1999-4893 - 13:12(2020), 327
+https://doi.org/10.3390/A13120327
+
+
+P2 Conference
+A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations
+De Boi Ivan, Jorissen Pieter
+International Science Fiction Prototyping Conference 2020(SciFi-It'2020), 23-25 March, 2020, Ghent, Belgium - ISBN 978-94-92859-10-5 - Ostend, EUROSIS-ETI, 2020, p. 41-48
+
+2018
+
+A1 Journal
+ImmersiMed: Cross-platform simulation training
+Jorissen Pieter, De Boi Ivan
+Digit Med [serial online] 2018  Available from: http://www.digitmedicine.com/text.asp?2018/4/4/166/248975
