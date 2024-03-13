@@ -1,15 +1,10 @@
 # Merging Geometry with Machine Learning
 https://orcid.org/0000-0003-3060-262X
 
-# Interests
-- Probabilistic numerics
-- Gaussian Processes
-- Line Geometry
-- AR/VR
-- Unity3D
+# About me
+I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. Currently I'm a PhD student at the University of Antwerp (expected date of defense is May 2024). My work focusses on Gaussian processes for the calibration of 3D measuring devices. My interest are probabilistic numerics and how to intertwine them with 3D line geometry.
 
 # Work Experience
-I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. Currently I'm a PhD student at the University of Antwerp (expected date of defense: 29 May 2024).
 - Feb 2021 - present, PhD student University of Antwerp
 - Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
 - Feb 2017 - Jun 2017, Unity Developer, BUT (part time)
