@@ -44,7 +44,8 @@ Publication number: WO2022/122834
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
 
-## Talks & Lectures (not including teaching activities from my +12 years as a lecturer):
+## Talks, lectures, events (not including teaching activities from my +12 years as a lecturer):
+- 24/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
 - 27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
 - 5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
