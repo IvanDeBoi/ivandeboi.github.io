@@ -73,12 +73,25 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 - In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
 
 # Publications
+
 ## 2024
+
+### PhD thesis
+Gaussian processes for 3D measurements.
+De Boi Ivan, Dissertation. University of Antwerp, 2024,
+[https://repository.uantwerpen.be/desktop/irua](https://doi.org/10.63028/10067/2058740151162165141)
+
 ### A1 Journal
 
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression,
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim,
 Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 
+[https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
+
+### P1 Conference
+Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation
+Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, 
+Intelligent Management of Data and Information in Decision Making. August 2024, 219-226
 [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ## 2023
