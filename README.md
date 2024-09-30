@@ -42,7 +42,7 @@ Publication number: WO2022/122834
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
 <iframe width="560" height="315" src="https://youtu.be/PMzLGCUt7Y8?si=bZEvvstouSC3mkYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[Watch this video on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/PMzLGCUt7Y8?si=bZEvvstouSC3mkYy))
 
 ## Talks, lectures, events (not including teaching activities from my +12 years as a lecturer):
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
