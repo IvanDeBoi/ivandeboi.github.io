@@ -41,7 +41,7 @@ Publication number: WO2022/122834
 
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PMzLGCUt7Y8?si=ASmbjh81xbjpLtWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/PMzLGCUt7Y8?si=bZEvvstouSC3mkYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Talks, lectures, events (not including teaching activities from my +12 years as a lecturer):
