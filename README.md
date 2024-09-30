@@ -42,7 +42,7 @@ Publication number: WO2022/122834
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
 
-## Talks, lectures, events (not including teaching activities from my +12 years as a lecturer):
+## Talks, lectures, events
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
 - 24/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
@@ -67,10 +67,10 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 - 24 - ongoing, BAP representative Faculty Educational Council (OWC)
 - 24 - ongoing, Vlaamse Interuniversitaire Raad, postdoc representative for University of Antwerp
 - 24 - ongoing, Member of COST Action Randomised Optimisation Algorithms Research Network, WG4 Optimisation under uncertainty, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)  [https://www.roar-net.eu/](https://www.roar-net.eu/)
-- 22 - 24 Antwerp Doctoral School, PhD student representative in both board and council
-- 22 - 24 PhD student representative in both board and council of Antwerp Doctoral School
-- 22 - 24 PhD student representative in Faculty Doctoral Committee (FDOC)
-- 22 - 24 PhD student representative in Faculty Research Council (OZC)
+- 22-24 Antwerp Doctoral School, PhD student representative in both board and council
+- 22-24 PhD student representative in both board and council of Antwerp Doctoral School
+- 22-24 PhD student representative in Faculty Doctoral Committee (FDOC)
+- 22-24 PhD student representative in Faculty Research Council (OZC)
 
 ## Awards
 - I won the audience award for my pitch on Gauss as GOAT @MathFest24.
