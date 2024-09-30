@@ -1,9 +1,5 @@
-# Merging Geometry with Machine Learning
-
-![Image Alt text](/assets/images/Lines.png)
-
 # About me
-I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. I did my PhD at InViLab, the industrial vision group of the University of Antwerp. My thesis is entitled "Gaussian processes for 3D measurements". Currently I'm a postdoctoral researcher. My work focusses on Gaussian processes for the calibration of non-conventional cameras. My interests are probabilistic numerics and how to intertwine them with 3D line geometry.
+I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. I did my PhD at InViLab, the industrial vision group of the University of Antwerp. My thesis is entitled "Gaussian processes for 3D measurements". Currently I'm a postdoctoral researcher. My work focusses on Gaussian processes for the calibration of non-conventional cameras. My interests are uncertainty quantification and how to intertwine them with 3D projective geometry.
 
 <a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
@@ -12,7 +8,8 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 ![Image Alt text](/assets/images/endo.png)
 
 # Work Experience
-- May 2024 - present, postdoctoral researcher
+- Sep 2024 - ongoing, postdoctoral research fellow FWO
+- May 2024 - Sep 2024, postdoctoral researcher University of Antwerp
 - Feb 2021 - May 2024, PhD student University of Antwerp
 - Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
 - Feb 2017 - Jun 2017, Unity Developer, BUT (part time)
@@ -20,17 +17,17 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 - Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
 
 # Acquired Grants
-I was a lecturer for over twelve years at the Karel de Grote Hogeschool (programming, AR/VR, 3D, artificial intelligence). I combined this with being a research coordinator. I applied for and got granted the following projects, which I also supervised during execution:
 
+- 24-27, PWO Postdoc Junior Research Fellow, Wireless capsule endoscopy based on Gaussian process latent variable models, 400k€, 100% me
 - 20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
-- 19-21, KdG PWO AI in XR, toolkit for AI-development in XR-applications, 138k€, 100% by me
-- 17-20, KdG ImmersiMed Innovation Fund, 37k€ , 100% by me
-- 18-21, VLAIO living lab Education 4.0, 100k€, 25% by me, 25% Catalisti, 25% imec, 25% ACTA
-- 19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data,191k€, 100% by me
-- 19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% by me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
-- 2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% by me
+- 19-21, KdG PWO AI in XR, toolkit for AI-development in XR-applications, 138k€, 100% me
+- 17-20, KdG ImmersiMed Innovation Fund, 37k€ , 100% me
+- 18-21, VLAIO living lab Education 4.0, 100k€, 25% me, 25% Catalisti, 25% imec, 25% ACTA
+- 19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data,191k€, 100% me
+- 19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
+- 2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% me
 
-Overall > 1M€, not including smaller applications for travel grants etc.
+Overall > 1.5M€, not including smaller applications for travel grants etc.
 
 # Scientific Output and Impact
 
@@ -46,6 +43,7 @@ Publication number: WO2022/122834
 
 
 ## Talks, lectures, events (not including teaching activities from my +12 years as a lecturer):
+- 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
 - 24/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
 - 27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
@@ -80,6 +78,8 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 Gaussian processes for 3D measurements.
 De Boi Ivan, Dissertation. University of Antwerp, 2024,
 [https://repository.uantwerpen.be/desktop/irua](https://doi.org/10.63028/10067/2058740151162165141)
+
+![Image Alt text](/assets/images/Lines.png)
 
 ### A1 Journal
 
