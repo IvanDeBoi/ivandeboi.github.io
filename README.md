@@ -101,23 +101,22 @@ De Boi Ivan, Dissertation. University of Antwerp, 2024,
 ### A1 Journal
 
 Efficient Tuning of an Isotope Separation Online System Through Safe Bayesian Optimization with Simulation-Informed Gaussian Process for the Constraints,
-Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696. [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.3390/math12233696)
+Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696. [https://doi.org/10.3390/math12233696](https://doi.org/10.3390/math12233696)
 
 Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation, 
-Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, Intelligent Management of Data and Information in Decision Making. July 2024, 219-226, [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1142/9789811294631_0028 )
+Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, Intelligent Management of Data and Information in Decision Making. July 2024, 219-226, [https://doi.org/10.1142/9789811294631_0028 ](https://doi.org/10.1142/9789811294631_0028 )
 
-Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints, Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn, Discov Mechanical Engineering 3, 21 (2024). [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1007/s44245-024-00054-7)
+Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints, Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn, Discov Mechanical Engineering 3, 21 (2024). [https://doi.org/10.1007/s44245-024-00054-7](https://doi.org/10.1007/s44245-024-00054-7)
 
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression,
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim,
-Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), 
-[https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
+Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ### P1 Conference
 Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation
 Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, 
 Intelligent Management of Data and Information in Decision Making. August 2024, 219-226
-[https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
+[https://doi.org/10.1142/9789811294631_0028](https://doi.org/10.1142/9789811294631_0028)
 
 ## 2023
 ### A1 Journal
