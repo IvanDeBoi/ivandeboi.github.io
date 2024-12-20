@@ -1,5 +1,5 @@
 # About me
-I graduated in 2001 as an Electronics engineer and started a career in industry before becoming a lecturer and research coordinator at the Karel de Grote Hogeschool. My main teaching topics were Unity3D game engine, AR/VR and machine learning. I did my PhD at InViLab, the industrial vision group of the University of Antwerp. My thesis is entitled "Gaussian processes for 3D measurements". Currently I'm a postdoctoral researcher. My work focusses on Gaussian processes for the calibration of non-conventional cameras. My interests are uncertainty quantification and how to intertwine them with 3D projective geometry.
+I graduated with a degree in Electronics Engineering in 2001 and worked in industry for a while. I then became a lecturer and research coordinator at Karel de Grote Hogeschool, teaching Unity3D game engine, AR/VR, and machine learning. I completed my PhD at the University of Antwerp's Industrial Vision Group (InViLab), focusing on Gaussian processes for 3D measurements. Currently, I'm a postdoctoral researcher working on using Gaussian processes to calibrate unconventional cameras. I'm interested in uncertainty quantification and how it can be combined with 3D projective geometry.
 
 <a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
@@ -18,12 +18,13 @@ I graduated in 2001 as an Electronics engineer and started a career in industry 
 
 # Acquired Grants
 
+- 24-25, OJO call Interuniverity Initiative, Symposium on How to Exploit Uncertainty in Research, 4k€, 100% me
 - 24-27, PWO Postdoc Junior Research Fellow, Wireless capsule endoscopy based on Gaussian process latent variable models, 400k€, 100% me
 - 20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
 - 19-21, KdG PWO AI in XR, toolkit for AI-development in XR-applications, 138k€, 100% me
 - 17-20, KdG ImmersiMed Innovation Fund, 37k€ , 100% me
 - 18-21, VLAIO living lab Education 4.0, 100k€, 25% me, 25% Catalisti, 25% imec, 25% ACTA
-- 19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data,191k€, 100% me
+- 19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data, 191k€, 100% me
 - 19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
 - 2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% me
 
@@ -43,6 +44,7 @@ Publication number: WO2022/122834
 
 
 ## Talks, lectures, events
+- 4/12/24, How to Exploit Uncertainty in AI for XR development, >100 attendees
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
 - 24/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
 - 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
@@ -98,7 +100,13 @@ De Boi Ivan, Dissertation. University of Antwerp, 2024,
 
 ### A1 Journal
 
-Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn. Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints. Discov Mechanical Engineering 3, 21 (2024). [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1007/s44245-024-00054-7)
+Efficient Tuning of an Isotope Separation Online System Through Safe Bayesian Optimization with Simulation-Informed Gaussian Process for the Constraints,
+Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696. [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.3390/math12233696)
+
+Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation, 
+Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, Intelligent Management of Data and Information in Decision Making. July 2024, 219-226, [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1142/9789811294631_0028 )
+
+Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints, Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn, Discov Mechanical Engineering 3, 21 (2024). [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1007/s44245-024-00054-7)
 
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression,
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim,
