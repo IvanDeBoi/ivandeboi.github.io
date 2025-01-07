@@ -32,62 +32,62 @@ Timeframe: applied November 2024, project April 2025 – October 2025,
 Funding Source: BOF KP UAntwerp,
 Funding Amount: € 10,000,
 Role:  supervisor and grant holder,
-Status: Applied for funding,
+Status: Applied for funding
 
-Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models
-Timeframe: October 2024 – September 2027
-Funding Source: FWO Postdoctoral Fellowship
-Funding Amount: € 380,000
-Role: grant holder, fellow
+- Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models,
+Timeframe: October 2024 – September 2027,
+Funding Source: FWO Postdoctoral Fellowship,
+Funding Amount: € 380,000,
+Role: grant holder, fellow,
 Status: Approved, ongoing
 
-Project Title: Virtual Reality application for Treatment of Spatial Neglect
-Timeframe: September 2020 – August 2021
-Funding Source: IOF POC UAntwerp
-Funding Amount: € 86,034.55
-Role:  50/50 effort with MOVANT University of Antwerp
+- Project Title: Virtual Reality application for Treatment of Spatial Neglect,
+Timeframe: September 2020 – August 2021,
+Funding Source: IOF POC UAntwerp,
+Funding Amount: € 86,034.55,
+Role:  50/50 effort with MOVANT University of Antwerp,
 Status: Completed
 
-Project Title: AI in XR, toolkit for AI-development in XR-applications
-Timeframe: September 2019 – August 2020
-Funding Source: PWO Karel de Grote University College
-Funding Amount: € 138,223
-Role:  supervisor and grant holder
+- Project Title: AI in XR, toolkit for AI-development in XR-applications,
+Timeframe: September 2019 – August 2020,
+Funding Source: PWO Karel de Grote University College,
+Funding Amount: € 138,223,
+Role:  supervisor and grant holder,
 Status: Completed
 
-Project Title: ImmersiMed
-Timeframe: September 2019 – August 2020
-Funding Source: Innovation Fund Karel de Grote University College
-Funding Amount: € 37,860
-Role:  supervisor and grant holder
+- Project Title: ImmersiMed,
+Timeframe: September 2019 – August 2020,
+Funding Source: Innovation Fund Karel de Grote University College,
+Funding Amount: € 37,860,
+Role:  supervisor and grant holder,
 Status: Completed
 
-Project Title: Education 4.0
-Timeframe: September 2018 – August 2021
-Funding Source: VLAIO Living Lab (Proeftuinen)
-Funding Amount: € 343,968.00
-Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA
+- Project Title: Education 4.0,
+Timeframe: September 2018 – August 2021,
+Funding Source: VLAIO Living Lab (Proeftuinen),
+Funding Amount: € 343,968.00,
+Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA,
 Status: Completed
 
-Project Title:  IoTTo, IoT-platform for real time vehicle data
-Timeframe: September 2019 – August 2020
-Funding Source: PWO Karel de Grote University College
-Funding Amount: € 191,765
-Role:  grant application
+- Project Title:  IoTTo, IoT-platform for real time vehicle data,
+Timeframe: September 2019 – August 2020,
+Funding Source: PWO Karel de Grote University College,
+Funding Amount: € 191,765,
+Role:  grant application,
 Status: Completed
 
-Project Title:  ELGAS, Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen
-Timeframe: September 2019 – August 2020
-Funding Source: VLAIO TETRA
-Funding Amount: € 197,154.75
-Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
+- Project Title:  ELGAS, Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen,
+Timeframe: September 2019 – August 2020,
+Funding Source: VLAIO TETRA,
+Funding Amount: € 197,154.75,
+Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO,
 Status: Completed
 
-Project Title:  Collaborative XR Lab
-Timeframe: September 2018 – August 2020
-Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen
-Funding Amount: € 250,423.46
-Role:  supervisor, grant application 50/50 effort with coworker
+- Project Title:  Collaborative XR Lab,
+Timeframe: September 2018 – August 2020,
+Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen,
+Funding Amount: € 250,423.46,
+Role:  supervisor, grant application 50/50 effort with coworker,
 Status: Completed
 
 
