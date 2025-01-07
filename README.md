@@ -18,17 +18,78 @@ I graduated with a degree in Electronics Engineering in 2001 and worked in indus
 
 # Acquired Grants
 
-- 24-25, OJO call Interuniverity Initiative, Symposium on How to Exploit Uncertainty in Research, 4k€, 100% me
-- 24-27, PWO Postdoc Junior Research Fellow, Wireless capsule endoscopy based on Gaussian process latent variable models, 400k€, 100% me
-- 20-21, IOF POC Virtual Reality application for Treatment of Spatial Neglect, 86k€, 50/50 effort with Professor Wim Saeys of MOVANT University of Antwerp
-- 19-21, KdG PWO AI in XR, toolkit for AI-development in XR-applications, 138k€, 100% me
-- 17-20, KdG ImmersiMed Innovation Fund, 37k€ , 100% me
-- 18-21, VLAIO living lab Education 4.0, 100k€, 25% me, 25% Catalisti, 25% imec, 25% ACTA
-- 19-20, KdG iPWO IoTTo, IoT-platform for real time vehicle data, 191k€, 100% me
-- 19-20, VLAIO Tetra ELGAS, IoT-platform for real-time air quality measurements on board schips, 197k€, 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
-- 2019, VLAIO approved funding for our Collaborative XR Lab, 250k€, 100% me
+## Total: € 1,639,428.76
 
-Overall > 1.5M€, not including smaller applications for travel grants etc.
+Project Title: Symposium on How to Exploit Uncertainty in Research
+Timeframe: applied November 2024, symposium will be held on 3/9/2025
+Funding Source: OJO Call UAntwerp
+Funding Amount: € 4.000
+Role:  supervisor and grant holder
+Status: Approved
+
+Project Title: Implicit Camera Calibration
+Timeframe: applied November 2024, project April 2025 – October 2025
+Funding Source: BOF KP UAntwerp
+Funding Amount: € 10,000
+Role:  supervisor and grant holder
+Status: Applied for funding
+
+Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models
+Timeframe: October 2024 – September 2027
+Funding Source: FWO Postdoctoral Fellowship
+Funding Amount: € 380,000
+Role: grant holder, fellow
+Status: Approved, ongoing
+
+Project Title: Virtual Reality application for Treatment of Spatial Neglect
+Timeframe: September 2020 – August 2021
+Funding Source: IOF POC UAntwerp
+Funding Amount: € 86,034.55
+Role:  50/50 effort with MOVANT University of Antwerp
+Status: Completed
+
+Project Title: AI in XR, toolkit for AI-development in XR-applications
+Timeframe: September 2019 – August 2020
+Funding Source: PWO Karel de Grote University College
+Funding Amount: € 138,223
+Role:  supervisor and grant holder
+Status: Completed
+
+Project Title: ImmersiMed
+Timeframe: September 2019 – August 2020
+Funding Source: Innovation Fund Karel de Grote University College
+Funding Amount: € 37,860
+Role:  supervisor and grant holder
+Status: Completed
+
+Project Title: Education 4.0
+Timeframe: September 2018 – August 2021
+Funding Source: VLAIO Living Lab (Proeftuinen)
+Funding Amount: € 343,968.00
+Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA
+Status: Completed
+
+Project Title:  IoTTo, IoT-platform for real time vehicle data
+Timeframe: September 2019 – August 2020
+Funding Source: PWO Karel de Grote University College
+Funding Amount: € 191,765
+Role:  grant application
+Status: Completed
+
+Project Title:  ELGAS, Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen
+Timeframe: September 2019 – August 2020
+Funding Source: VLAIO TETRA
+Funding Amount: € 197,154.75
+Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
+Status: Completed
+
+Project Title:  Collaborative XR Lab
+Timeframe: September 2018 – August 2020
+Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen
+Funding Amount: € 250,423.46
+Role:  supervisor, grant application 50/50 effort with coworker
+Status: Completed
+
 
 # Scientific Output and Impact
 
@@ -43,24 +104,29 @@ Publication number: WO2022/122834
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
 
-## Talks, lectures, events
-- 4/12/24, How to Exploit Uncertainty in AI for XR development, >100 attendees
-- 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
-- 24/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
-- 23/01/2024, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
-- 27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
-- 5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
-- 24/5/2023, On straight lines and machine learning, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
-- 1/2/2023, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
-- 7/4/2022, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
-- 7/9/2020, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
-- 12/12/2019, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
-- 24/11/2019, Dag van de wetenschap, VR demonstration Immersimed, an application to train medical personnel, >1000 attendees
-- 16/11/2018, Unlock the power of AR, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
-- 29/9-30/9 2018, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
-- 18/4/2018, Immersimed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
-- 25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
-- 16/11/2017, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote Hogeschool, 100 attendees
+## Talks
+•	UPCOMING 20/01/2025, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+•	4/12/24, How to Exploit Uncertainty in AI for XR development, invited talk, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
+•	22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
+•	23/01/2024, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+•	27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
+•	5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
+•	24/5/2023, On straight lines and machine learning, invited talk, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
+•	1/2/2023, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
+•	7/4/2022, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
+•	7/9/2020, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
+•	12/12/2019, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
+•	16/11/2018, Unlock the power of AR, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+•	18/4/2018, ImmersiMed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
+•	16/11/2017, Jumpstart into Hololens development with Unity, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+
+## Science Communication
+•	22/10/24, Gauss is GOAT @Mathfest24, 100 attendees, I won the audience award for my pitch
+•	24/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
+•	24/11/2019, Dag van de wetenschap, VR demonstration ImmersiMed, an application to train medical personnel, >1000 attendees
+•	29/9-30/9 2018, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
+•	25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
+
 
 ## Network on Gaussian Processes
 In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor Søren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
@@ -88,6 +154,12 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 - I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
 
 # Publications
+
+## 2025
+
+### A1 Journal
+
+Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne, On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation, Sensors 2025, 25, 298. [https://doi.org/10.3390/s25020298]([url](https://doi.org/10.3390/s25020298)),  (This article belongs to the Special Issue State-of-the-Art Sensors Technologies in Belgium 2024-2025), Impact Factor 3.4, JCR - Q2 (Chemistry, Analytical) / CiteScore - Q1 (Instrumentation)
 
 ## 2024
 
