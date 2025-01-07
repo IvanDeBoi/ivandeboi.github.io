@@ -1,5 +1,5 @@
 # About me
-I graduated with a degree in Electronics Engineering in 2001 and worked in industry for a while. I then became a lecturer and research coordinator at Karel de Grote Hogeschool, teaching Unity3D game engine, AR/VR, and machine learning. I completed my PhD at the University of Antwerp's Industrial Vision Group (InViLab), focusing on Gaussian processes for 3D measurements. Currently, I'm a postdoctoral researcher working on using Gaussian processes to calibrate unconventional cameras. I'm interested in uncertainty quantification and how it can be combined with 3D projective geometry.
+I graduated with a degree in Electronics Engineering in 2001 and worked in industry for a while. I then became a lecturer and research coordinator at Karel de Grote Hogeschool, teaching Unity3D game engine, AR/VR, and machine learning. I completed my PhD at the University of Antwerp's Industrial Vision Group (InViLab), focusing on Gaussian processes for 3D measurements. Currently, I'm a postdoctoral researcher working on using Gaussian processes to calibrate unconventional cameras. I'm interested in uncertainty quantification and how it can be combined with 3D projective geometry to discover hidden strucures in data.
 
 <a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
@@ -20,19 +20,19 @@ I graduated with a degree in Electronics Engineering in 2001 and worked in indus
 
 ## Total: € 1,639,428.76
 
-Project Title: Symposium on How to Exploit Uncertainty in Research
-Timeframe: applied November 2024, symposium will be held on 3/9/2025
-Funding Source: OJO Call UAntwerp
-Funding Amount: € 4.000
-Role:  supervisor and grant holder
+- Project Title: Symposium on How to Exploit Uncertainty in Research,
+Timeframe: applied November 2024, symposium will be held on 3/9/2025,
+Funding Source: OJO Call UAntwerp,
+Funding Amount: € 4.000,
+Role:  supervisor and grant holder,
 Status: Approved
 
-Project Title: Implicit Camera Calibration
-Timeframe: applied November 2024, project April 2025 – October 2025
-Funding Source: BOF KP UAntwerp
-Funding Amount: € 10,000
-Role:  supervisor and grant holder
-Status: Applied for funding
+- Project Title: Implicit Camera Calibration,
+Timeframe: applied November 2024, project April 2025 – October 2025,
+Funding Source: BOF KP UAntwerp,
+Funding Amount: € 10,000,
+Role:  supervisor and grant holder,
+Status: Applied for funding,
 
 Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models
 Timeframe: October 2024 – September 2027
