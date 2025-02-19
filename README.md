@@ -105,10 +105,10 @@ Publication number: WO2022/122834
 
 
 ## Talks
-- UPCOMING 20/01/2025, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 20/01/2025, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
 - 4/12/24, How to Exploit Uncertainty in AI for XR development, invited talk, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
--  22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
--  23/01/2024, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
+- 23/01/2024, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
 - 27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
 - 5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
 - 24/5/2023, On straight lines and machine learning, invited talk, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
@@ -171,6 +171,10 @@ De Boi Ivan, Dissertation. University of Antwerp, 2024,
 ![Image Alt text](/assets/images/Lines.png)
 
 ### A1 Journal
+
+Geometric optimization through CAD-based bayesian optimization with unknown constraint,
+Abdelmajid Ben Yahya, Robbe De Laet, Santiago Ramos Garces, Nick Van Oosterwyck, Ivan De Boi, Annie A.M. Cuyt, Stijn Derammelaere,
+2024 12th International Conference on Control, Mechatronics and Automation (ICCMA), 11-13 November, 2024, London, United Kingdom, p. 394-402, [https://doi.org/10.1109/ICCMA63715.2024.10843905](https://doi.org/10.1109/ICCMA63715.2024.10843905)
 
 Efficient Tuning of an Isotope Separation Online System Through Safe Bayesian Optimization with Simulation-Informed Gaussian Process for the Constraints,
 Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696. [https://doi.org/10.3390/math12233696](https://doi.org/10.3390/math12233696)
