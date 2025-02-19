@@ -159,7 +159,8 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 ### A1 Journal
 
-Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne, On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation, Sensors 2025, 25, 298. [https://doi.org/10.3390/s25020298]([url](https://doi.org/10.3390/s25020298)),  (This article belongs to the Special Issue State-of-the-Art Sensors Technologies in Belgium 2024-2025), Impact Factor 3.4, JCR - Q2 (Chemistry, Analytical) / CiteScore - Q1 (Instrumentation)
+Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne, On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation, Sensors 2025, 25, 298.
+[https://doi.org/10.3390/s25020298](https://doi.org/10.3390/s25020298)
 
 ## 2024
 
@@ -174,19 +175,24 @@ De Boi Ivan, Dissertation. University of Antwerp, 2024,
 
 Geometric optimization through CAD-based bayesian optimization with unknown constraint,
 Abdelmajid Ben Yahya, Robbe De Laet, Santiago Ramos Garces, Nick Van Oosterwyck, Ivan De Boi, Annie A.M. Cuyt, Stijn Derammelaere,
-2024 12th International Conference on Control, Mechatronics and Automation (ICCMA), 11-13 November, 2024, London, United Kingdom, p. 394-402, [https://doi.org/10.1109/ICCMA63715.2024.10843905](https://doi.org/10.1109/ICCMA63715.2024.10843905)
+2024 12th International Conference on Control, Mechatronics and Automation (ICCMA), 11-13 November, 2024, London, United Kingdom, p. 394-402,
+[https://doi.org/10.1109/ICCMA63715.2024.10843905](https://doi.org/10.1109/ICCMA63715.2024.10843905)
 
 Efficient Tuning of an Isotope Separation Online System Through Safe Bayesian Optimization with Simulation-Informed Gaussian Process for the Constraints,
-Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696. [https://doi.org/10.3390/math12233696](https://doi.org/10.3390/math12233696)
+Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696.
+[https://doi.org/10.3390/math12233696](https://doi.org/10.3390/math12233696)
 
 Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation, 
-Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, Intelligent Management of Data and Information in Decision Making. July 2024, 219-226, [https://doi.org/10.1142/9789811294631_0028 ](https://doi.org/10.1142/9789811294631_0028 )
+Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, Intelligent Management of Data and Information in Decision Making. July 2024, 219-226,
+[https://doi.org/10.1142/9789811294631_0028 ](https://doi.org/10.1142/9789811294631_0028 )
 
-Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints, Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn, Discov Mechanical Engineering 3, 21 (2024). [https://doi.org/10.1007/s44245-024-00054-7](https://doi.org/10.1007/s44245-024-00054-7)
+Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints, Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn, Discov Mechanical Engineering 3, 21 (2024).
+[https://doi.org/10.1007/s44245-024-00054-7](https://doi.org/10.1007/s44245-024-00054-7)
 
 Assessment and treatment of visuospatial neglect using active learning with Gaussian processes regression,
 De Boi Ivan, Embrechts Elissa, Schatteman Quirine, Penne Rudi, Truijen Steven, Saeys Wim,
-Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024), [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
+Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024),
+[https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ### P1 Conference
 Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation
