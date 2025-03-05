@@ -159,6 +159,9 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 ### A1 Journal
 
+Santiago Ramos Garces, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, Stijn Derammelaere,
+Safe Bayesian optimization with simulation-informed Gaussian process for the constraints, ICAAI '24: Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence, Pages 66 - 72, [https://doi.org/10.1145/3704137.3704157](https://doi.org/10.1145/3704137.3704157)
+
 Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne, On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation, Sensors 2025, 25, 298.
 [https://doi.org/10.3390/s25020298](https://doi.org/10.3390/s25020298)
 
@@ -181,10 +184,6 @@ Abdelmajid Ben Yahya, Robbe De Laet, Santiago Ramos Garces, Nick Van Oosterwyck,
 Efficient Tuning of an Isotope Separation Online System Through Safe Bayesian Optimization with Simulation-Informed Gaussian Process for the Constraints,
 Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696.
 [https://doi.org/10.3390/math12233696](https://doi.org/10.3390/math12233696)
-
-Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation, 
-Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, Intelligent Management of Data and Information in Decision Making. July 2024, 219-226,
-[https://doi.org/10.1142/9789811294631_0028 ](https://doi.org/10.1142/9789811294631_0028 )
 
 Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints, Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn, Discov Mechanical Engineering 3, 21 (2024).
 [https://doi.org/10.1007/s44245-024-00054-7](https://doi.org/10.1007/s44245-024-00054-7)
