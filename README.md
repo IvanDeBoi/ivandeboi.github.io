@@ -135,7 +135,6 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 - 24 - ongoing, BAP representative Faculty Educational Council (OWC)
 - 24 - ongoing, Vlaamse Interuniversitaire Raad, postdoc representative for University of Antwerp
 - 24 - ongoing, Member of COST Action Randomised Optimisation Algorithms Research Network, WG4 Optimisation under uncertainty, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)  [https://www.roar-net.eu/](https://www.roar-net.eu/)
-- 22-24 Antwerp Doctoral School, PhD student representative in both board and council
 - 22-24 PhD student representative in both board and council of Antwerp Doctoral School
 - 22-24 PhD student representative in Faculty Doctoral Committee (FDOC)
 - 22-24 PhD student representative in Faculty Research Council (OZC)
@@ -143,7 +142,7 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 ## Awards
 - I won the audience award for my pitch on Gauss as GOAT @MathFest24.
 - Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
-- Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022) [link](https://www.mdpi.com/1999-4893/15/4?%20utm_campaign=releaseissue_algorithmsutm_medium=emailutm_source=releaseissueutm_term=coverlink)
+- Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022)
 - In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
 
 ## Reviews
