@@ -1,5 +1,5 @@
 # About me
-I graduated with a degree in Electronics Engineering in 2001 and worked in industry for a while. I then became a lecturer and research coordinator at Karel de Grote Hogeschool, teaching Unity3D game engine, AR/VR, and machine learning. I completed my PhD at the University of Antwerp's Industrial Vision Group (InViLab), focusing on Gaussian processes for 3D measurements. Currently, I'm a postdoctoral researcher working on using Gaussian processes to calibrate unconventional cameras. I'm interested in uncertainty quantification and how it can be combined with 3D projective geometry to discover hidden strucures in data.
+I graduated with a degree in Electronics Engineering in 2001 and worked in industry for a while. Later, I became a lecturer and research coordinator at Karel de Grote Hogeschool, teaching Unity3D game engine, AR/VR, and machine learning. I completed my PhD at the University of Antwerp's Industrial Vision Group (InViLab), focusing on Gaussian processes for 3D measurements. Currently, I'm a postdoctoral researcher working on using Gaussian processes to calibrate unconventional cameras. My main interest involves uncertainty quantification and how it can be combined with 3D projective geometry to discover hidden strucures in data.
 
 <a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
@@ -105,6 +105,7 @@ Publication number: WO2022/122834
 
 
 ## Talks
+- 15/07/2025, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
 - 20/01/2025, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
 - 4/12/24, How to Exploit Uncertainty in AI for XR development, invited talk, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
@@ -133,7 +134,7 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 ## Member of
 - 24 - ongoing, BAP representative Faculty Educational Council (OWC)
-- 24 - ongoing, Vlaamse Interuniversitaire Raad, postdoc representative for University of Antwerp
+- 24 - ongoing, Vlaamse Interuniversitaire Raad (VLIR), postdoc representative for University of Antwerp
 - 24 - ongoing, Member of COST Action Randomised Optimisation Algorithms Research Network, WG4 Optimisation under uncertainty, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)  [https://www.roar-net.eu/](https://www.roar-net.eu/)
 - 22-24 PhD student representative in both board and council of Antwerp Doctoral School
 - 22-24 PhD student representative in Faculty Doctoral Committee (FDOC)
@@ -150,19 +151,29 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 - Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics
 - Springer Nonlinear Dynamics
 - The 12th International Conference on Control, Mechatronics and Automation (ICCMA 2024), [ICCMA](https://www.iccma.org/committee.html)
+- BMVC 2025, The 36th British Machine Vision Conference
 - I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
 
 # Publications
+
 
 ## 2025
 
 ### A1 Journal
 
-Santiago Ramos Garces, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, Stijn Derammelaere,
-Safe Bayesian optimization with simulation-informed Gaussian process for the constraints, ICAAI '24: Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence, Pages 66 - 72, [https://doi.org/10.1145/3704137.3704157](https://doi.org/10.1145/3704137.3704157)
+Elissa Embrechts, Ivan De Boi, Quirine Schatteman, Tanja C. W. Nijboer, Steven Truijen, and Wim Saeys. 2025. “Use of Immersive Virtual Reality to Explore Visual Search Behaviour in Individuals with Visuospatial Neglect after Stroke.” Neuropsychological Rehabilitation, June, 1–28. [https://doi:10.1080/09602011.2025.2511193](doi:10.1080/09602011.2025.2511193).
 
 Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne, On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation, Sensors 2025, 25, 298.
 [https://doi.org/10.3390/s25020298](https://doi.org/10.3390/s25020298)
+
+### P1 Conference
+
+Ivan De Boi Ivan, Rudi Penne, Proceedings of Bridges 2025 : Mathematics and the Arts - ISSN 1099-6702 - Tessellations Publishing, 2025, p. 483-486,
+[https://archive.bridgesmathart.org/2025/bridges2025-483.html#gsc.tab=0](https://archive.bridgesmathart.org/2025/bridges2025-483.html#gsc.tab=0).
+
+Santiago Ramos Garces, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, Stijn Derammelaere,
+Safe Bayesian optimization with simulation-informed Gaussian process for the constraints, ICAAI '24: Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence, Pages 66 - 72, [https://doi.org/10.1145/3704137.3704157](https://doi.org/10.1145/3704137.3704157)
+
 
 ## 2024
 
@@ -198,6 +209,7 @@ Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx,
 Intelligent Management of Data and Information in Decision Making. August 2024, 219-226
 [https://doi.org/10.1142/9789811294631_0028](https://doi.org/10.1142/9789811294631_0028)
 
+
 ## 2023
 ### A1 Journal
 
@@ -221,13 +233,13 @@ De Boi Ivan, Ek Carl Henrik, Penne Rudi,
 Mathematics - ISSN 2227-7390 - 11:2(2023),
 [https://doi.org/10.3390/MATH11020380](https://doi.org/10.3390/MATH11020380)
 
-
 ### P1 Conference
 
 How to turn your camera into a perfect pinhole model,
 De Boi Ivan, Pathak Stuti, Oliveira Marina, Penne Rudi,
 Lecture notes in computer science - ISSN 0302-9743 - Springer, (2024), p. 90-107,
 [https://doi.org/10.1007/978-3-031-49018-7_7](https://doi.org/10.1007/978-3-031-49018-7_7)
+
 
 ## 2022
 
