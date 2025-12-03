@@ -18,7 +18,14 @@ I graduated with a degree in Electronics Engineering in 2001 and worked in indus
 
 # Acquired Grants
 
-## Total: € 1,639,428.76
+## Total: € 1,664,428.76 
+
+- Project Title: PreMaNRM2 – Predictive Maintenance for Non-Road Mobile Machinery,
+Timeframe: applied June 2025, project November 2025 - October 2026
+Funding Source: AUHA Zaaifonds voor onderzoekssamenwerking,
+Funding Amount: € 25.000,
+Role:  supervisor and grant holder,
+Status: Approved, ongoing
 
 - Project Title: Symposium on How to Exploit Uncertainty in Research,
 Timeframe: applied November 2024, symposium will be held on 3/9/2025,
@@ -105,6 +112,7 @@ Publication number: WO2022/122834
 
 
 ## Talks
+- 08/09/2025, Constraints on GP Predictions, Gaussian Process Summer School 2025, University of Manchester, 40 attendees
 - 15/07/2025, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
 - 20/01/2025, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
 - 4/12/24, How to Exploit Uncertainty in AI for XR development, invited talk, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
@@ -133,6 +141,8 @@ Publication number: WO2022/122834
 In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor Søren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
 
 ## Member of
+- 25 - ongoing, Member of COST Action Extended Reality Neurorehabilitation of Spatial Neglect and Related Disorders After Brain Injury (neuroXRehab), WG2 Assessment of spatial neglect and related disorders and WG3 Treatment of spatial neglect and related disorders, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)
+- 25 - ongoing, Member of Management Committee COST Action Adaptive and acquired resistance in gastrointestinal cancers-contemporary and emerging resolutions (AdResCanCER), WG5 Integrated data analyses and machine learning, [https://www.cost.eu/actions/CA24162/](https://www.cost.eu/actions/CA24162/)
 - 24 - ongoing, BAP representative Faculty Educational Council (OWC)
 - 24 - ongoing, Vlaamse Interuniversitaire Raad (VLIR), postdoc representative for University of Antwerp
 - 24 - ongoing, Member of COST Action Randomised Optimisation Algorithms Research Network, WG4 Optimisation under uncertainty, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)  [https://www.roar-net.eu/](https://www.roar-net.eu/)
@@ -160,6 +170,8 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 ## 2025
 
 ### A1 Journal
+
+Santiago Ramos Garces, Line Le, Mia Au, Alexander Schmidt, João Pedro Ramos, Marc Dierckx, Dinko Atanasov, Ivan De Boi, Sebastian Rothe, Lucia Popescu, Stijn Derammelaere. 2025. "Isotope Separator On-Line system tuning: Bayesian optimization applied to the transport beamline case". Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms. 2025/11/1. Volume 568. [https://doi.org/10.1016/j.nimb.2025.165859](https://doi.org/10.1016/j.nimb.2025.165859)
 
 Elissa Embrechts, Ivan De Boi, Quirine Schatteman, Tanja C. W. Nijboer, Steven Truijen, and Wim Saeys. 2025. “Use of Immersive Virtual Reality to Explore Visual Search Behaviour in Individuals with Visuospatial Neglect after Stroke.” Neuropsychological Rehabilitation, June, 1–28. [https://doi:10.1080/09602011.2025.2511193](doi:10.1080/09602011.2025.2511193).
 
@@ -284,10 +296,17 @@ ImmersiMed: Cross-platform simulation training,
 Jorissen Pieter, De Boi Ivan,
 [http://www.digitmedicine.com/text.asp?2018/4/4/166/248975](http://www.digitmedicine.com/text.asp?2018/4/4/166/248975)
 
+
+# PhD Students
+
+- Santiago Ramos Garces, successfully defended "Enhanced performance of automatic tuning in isotope separation online systems through Bayesian optimization" on 1/12/2025
+- Mengdi Lu, "The Assessment and Treatment of Visuospatial Neglect After Using A Self-developed Virtual Reality Application", Expected submission of thesis (quarter/year): 04/2027
+
 # Mock Publications
 Do not take these seriously. Although, ...
 - Happy Edward Goodwin Day, aka the more sensible pi-day [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/EGD_2023.pdf)
 - On the Tardiness of my Coworkers and How To Exploit it [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf)
+
   
 
 
