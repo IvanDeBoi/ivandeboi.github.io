@@ -305,7 +305,7 @@ Jorissen Pieter, De Boi Ivan,
 # Mock Publications
 Do not take these seriously. Although, ...
 - Happy Edward Goodwin Day, aka the more sensible pi-day [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/EGD_2023.pdf)
-- On the Tardiness of my Coworkers and How To Exploit it [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf)
+- On the Tardiness of my Coworkers and How To Exploit it [pdf](https://github.com/IvanDeBoi/ivandeboi.github.io/blob/main/assets/mock_papers/On_the_tardiness_of_my_coworkers_and_how_to_exploit_it.pdf). Also published as a chapter in the book How to Prove Anything: 30 absurd research papers no one else was brave enough to publish. [https://www.amazon.com/How-Prove-Anything-research-publish/dp/1806118939](https://www.amazon.com/How-Prove-Anything-research-publish/dp/1806118939) Check out the Journal of Astrological Big Data Ecology [https://jabde.com/](https://jabde.com/)
 
   
 
