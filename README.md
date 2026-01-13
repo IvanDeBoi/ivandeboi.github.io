@@ -35,7 +35,7 @@ Role:  supervisor and grant holder
 Status: Approved, ongoing
 
 - Project Title: Symposium on How to Exploit Uncertainty in Research
-Timeframe: applied November 2024, symposium will be held on 3/9/2025
+Timeframe: applied November 2024, symposium was be held on 3/9/2025
 Funding Source: OJO Call UAntwerp
 Funding Amount: € 4,000
 Role:  supervisor and grant holder
