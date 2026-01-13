@@ -179,7 +179,7 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 A Unified Complex-Fresnel Model for Physically Based Long-Wave Infrared Imaging and Simulation,
 ter Heerdt, Peter, William Keustermans, Ivan De Boi, and Steve Vanlanduit. 2026. 
-Journal of Imaging 12, no. 1: 33. https://doi.org/10.3390/jimaging12010033
+Journal of Imaging 12, no. 1: 33. [https://doi.org/10.1016/j.nimb.2025.165859](https://doi.org/10.3390/jimaging12010033)
 
 ## 2025
 
