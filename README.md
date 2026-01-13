@@ -21,11 +21,11 @@ I graduated with a degree in Electronics Engineering in 2001 and worked in indus
 ## Total: € 1,664,432.76 
 
 - Project Title: Symposium on How to Exploit Uncertainty in Research II
-Timeframe: applied November 2025, symposium will be held on x/9/2026
-Funding Source: OJO Call UAntwerp
-Funding Amount: € 4,000
-Role:  supervisor and grant holder
-Status: Approved
+Timeframe: applied November 2025, symposium will be held on x/9/2026\
+Funding Source: OJO Call UAntwerp\
+Funding Amount: € 4,000\
+Role:  supervisor and grant holder\
+Status: Approved\
 
 - Project Title: PreMaNRM2 – Predictive Maintenance for Non-Road Mobile Machinery
 Timeframe: applied June 2025, project November 2025 - October 2026
