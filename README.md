@@ -18,83 +18,90 @@ I graduated with a degree in Electronics Engineering in 2001 and worked in indus
 
 # Acquired Grants
 
-## Total: € 1,664,428.76 
+## Total: € 1,664,432.76 
 
-- Project Title: PreMaNRM2 – Predictive Maintenance for Non-Road Mobile Machinery,
-Timeframe: applied June 2025, project November 2025 - October 2026
-Funding Source: AUHA Zaaifonds voor onderzoekssamenwerking,
-Funding Amount: € 25.000,
-Role:  supervisor and grant holder,
-Status: Approved, ongoing
-
-- Project Title: Symposium on How to Exploit Uncertainty in Research,
-Timeframe: applied November 2024, symposium will be held on 3/9/2025,
-Funding Source: OJO Call UAntwerp,
-Funding Amount: € 4.000,
-Role:  supervisor and grant holder,
+- Project Title: Symposium on How to Exploit Uncertainty in Research II
+Timeframe: applied November 2025, symposium will be held on x/9/2026
+Funding Source: OJO Call UAntwerp
+Funding Amount: € 4,000
+Role:  supervisor and grant holder
 Status: Approved
 
-- Project Title: Implicit Camera Calibration,
-Timeframe: applied November 2024, project April 2025 – October 2025,
-Funding Source: BOF KP UAntwerp,
-Funding Amount: € 10,000,
-Role:  supervisor and grant holder,
-Status: Applied for funding
-
-- Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models,
-Timeframe: October 2024 – September 2027,
-Funding Source: FWO Postdoctoral Fellowship,
-Funding Amount: € 380,000,
-Role: grant holder, fellow,
+- Project Title: PreMaNRM2 – Predictive Maintenance for Non-Road Mobile Machinery
+Timeframe: applied June 2025, project November 2025 - October 2026
+Funding Source: AUHA Zaaifonds voor onderzoekssamenwerking
+Funding Amount: € 25,000
+Role:  supervisor and grant holder
 Status: Approved, ongoing
 
-- Project Title: Virtual Reality application for Treatment of Spatial Neglect,
-Timeframe: September 2020 – August 2021,
-Funding Source: IOF POC UAntwerp,
-Funding Amount: € 86,034.55,
-Role:  50/50 effort with MOVANT University of Antwerp,
+- Project Title: Symposium on How to Exploit Uncertainty in Research
+Timeframe: applied November 2024, symposium will be held on 3/9/2025
+Funding Source: OJO Call UAntwerp
+Funding Amount: € 4,000
+Role:  supervisor and grant holder
 Status: Completed
 
-- Project Title: AI in XR, toolkit for AI-development in XR-applications,
-Timeframe: September 2019 – August 2020,
-Funding Source: PWO Karel de Grote University College,
-Funding Amount: € 138,223,
-Role:  supervisor and grant holder,
+- Project Title: Implicit Camera Calibration
+Timeframe: applied November 2024, project April 2025 – October 2025
+Funding Source: BOF KP UAntwerp
+Funding Amount: € 10,000
+Role:  supervisor and grant holder
 Status: Completed
 
-- Project Title: ImmersiMed,
-Timeframe: September 2019 – August 2020,
-Funding Source: Innovation Fund Karel de Grote University College,
-Funding Amount: € 37,860,
-Role:  supervisor and grant holder,
+- Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models,
+Timeframe: October 2024 – September 2027
+Funding Source: FWO Postdoctoral Fellowship
+Funding Amount: € 380.000
+Role: grant holder, fellow
+Status: Approved, ongoing
+
+- Project Title: Virtual Reality application for Treatment of Spatial Neglect
+Timeframe: September 2020 – August 2021
+Funding Source: IOF POC UAntwerp
+Funding Amount: € 86,034.55
+Role:  50/50 effort with MOVANT University of Antwerp
 Status: Completed
 
-- Project Title: Education 4.0,
+- Project Title: AI in XR, toolkit for AI-development in XR-applications
+Timeframe: September 2019 – August 2020
+Funding Source: PWO Karel de Grote University College
+Funding Amount: € 138,223
+Role:  supervisor and grant holder
+Status: Completed
+
+- Project Title: ImmersiMed
+Timeframe: September 2019 – August 2020
+Funding Source: Innovation Fund Karel de Grote University College
+Funding Amount: € 37,860
+Role:  supervisor and grant holder
+Status: Completed
+
+- Project Title: Education 4.0
 Timeframe: September 2018 – August 2021,
-Funding Source: VLAIO Living Lab (Proeftuinen),
-Funding Amount: € 343,968.00,
-Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA,
+Funding Source: VLAIO Living Lab (Proeftuinen)
+Funding Amount: € 343,968.00
+Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA
 Status: Completed
 
-- Project Title:  IoTTo, IoT-platform for real time vehicle data,
-Timeframe: September 2019 – August 2020,
-Funding Source: PWO Karel de Grote University College,
-Funding Amount: € 191,765,
-Role:  grant application,
+- Project Title:  IoTTo, IoT-platform for real time vehicle data
+Timeframe: September 2019 – August 2020
+Funding Source: PWO Karel de Grote University College
+Funding Amount: € 191,765
+Role:  grant application
 Status: Completed
 
-- Project Title:  ELGAS, Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen,
-Timeframe: September 2019 – August 2020,
-Funding Source: VLAIO TETRA,
-Funding Amount: € 197,154.75,
-Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO,
+- Project Title:  ELGAS, Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen
+Timeframe: September 2019 – August 2020
+Funding Source: VLAIO TETRA
+Funding Amount: € 197,154.75
+Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
 Status: Completed
 
-- Project Title:  Collaborative XR Lab,
-Timeframe: September 2018 – August 2020,
-Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen,
-Funding Amount: € 250,423.46,
-Role:  supervisor, grant application 50/50 effort with coworker,
+- Project Title:  Collaborative XR Lab
+Timeframe: September 2018 – August 2020
+Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen
+Funding Amount: € 250,423.46
+Role:  supervisor, grant application 50/50 effort with coworker
 Status: Completed
 
 
@@ -166,31 +173,45 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 # Publications
 
+## 2026
+
+### A1 Journal
+
+A Unified Complex-Fresnel Model for Physically Based Long-Wave Infrared Imaging and Simulation,
+ter Heerdt, Peter, William Keustermans, Ivan De Boi, and Steve Vanlanduit. 2026. 
+Journal of Imaging 12, no. 1: 33. https://doi.org/10.3390/jimaging12010033
 
 ## 2025
 
 ### A1 Journal
 
-Santiago Ramos Garces, Line Le, Mia Au, Alexander Schmidt, João Pedro Ramos, Marc Dierckx, Dinko Atanasov, Ivan De Boi, Sebastian Rothe, Lucia Popescu, Stijn Derammelaere. 2025. "Isotope Separator On-Line system tuning: Bayesian optimization applied to the transport beamline case". Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms. 2025/11/1. Volume 568. [https://doi.org/10.1016/j.nimb.2025.165859](https://doi.org/10.1016/j.nimb.2025.165859)
+Isotope Separator On-Line system tuning: Bayesian optimization applied to the transport beamline case,
+Santiago Ramos Garces, Line Le, Mia Au, Alexander Schmidt, João Pedro Ramos, Marc Dierckx, Dinko Atanasov, Ivan De Boi, Sebastian Rothe, Lucia Popescu, Stijn Derammelaere. 2025.
+Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms. 2025/11/1. Volume 568. [https://doi.org/10.1016/j.nimb.2025.165859](https://doi.org/10.1016/j.nimb.2025.165859)
 
-Elissa Embrechts, Ivan De Boi, Quirine Schatteman, Tanja C. W. Nijboer, Steven Truijen, and Wim Saeys. 2025. “Use of Immersive Virtual Reality to Explore Visual Search Behaviour in Individuals with Visuospatial Neglect after Stroke.” Neuropsychological Rehabilitation, June, 1–28. [https://doi:10.1080/09602011.2025.2511193](doi:10.1080/09602011.2025.2511193).
+Use of Immersive Virtual Reality to Explore Visual Search Behaviour in Individuals with Visuospatial Neglect after Stroke, 
+Elissa Embrechts, Ivan De Boi, Quirine Schatteman, Tanja C. W. Nijboer, Steven Truijen, and Wim Saeys. 2025, 
+Neuropsychological Rehabilitation, June, 1–28. [https://doi:10.1080/09602011.2025.2511193](doi:10.1080/09602011.2025.2511193).
 
-Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne, On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation, Sensors 2025, 25, 298.
+On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation,
+Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne,  Sensors 2025, 25, 298.
 [https://doi.org/10.3390/s25020298](https://doi.org/10.3390/s25020298)
 
 ### P1 Conference
 
-Ivan De Boi Ivan, Rudi Penne, Proceedings of Bridges 2025 : Mathematics and the Arts - ISSN 1099-6702 - Tessellations Publishing, 2025, p. 483-486,
+The Creation of Ruled Surfaces in a Hall of Mirrors, 
+Ivan De Boi, Rudi Penne, Proceedings of Bridges 2025 : Mathematics and the Arts - ISSN 1099-6702 - Tessellations Publishing, 2025, p. 483-486,
 [https://archive.bridgesmathart.org/2025/bridges2025-483.html#gsc.tab=0](https://archive.bridgesmathart.org/2025/bridges2025-483.html#gsc.tab=0).
 
+Safe Bayesian optimization with simulation-informed Gaussian process for the constraints, 
 Santiago Ramos Garces, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, Stijn Derammelaere,
-Safe Bayesian optimization with simulation-informed Gaussian process for the constraints, ICAAI '24: Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence, Pages 66 - 72, [https://doi.org/10.1145/3704137.3704157](https://doi.org/10.1145/3704137.3704157)
+ICAAI '24: Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence, Pages 66 - 72, [https://doi.org/10.1145/3704137.3704157](https://doi.org/10.1145/3704137.3704157)
 
 
 ## 2024
 
 ### PhD thesis
-Gaussian processes for 3D measurements.
+Gaussian processes for 3D measurements,
 De Boi Ivan, Dissertation. University of Antwerp, 2024,
 [https://repository.uantwerpen.be/desktop/irua](https://doi.org/10.63028/10067/2058740151162165141)
 
@@ -216,7 +237,7 @@ Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024),
 [https://doi.org/10.1016/J.ARTMED.2024.102770](https://doi.org/10.1016/J.ARTMED.2024.102770)
 
 ### P1 Conference
-Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation
+Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation,
 Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, 
 Intelligent Management of Data and Information in Decision Making. August 2024, 219-226
 [https://doi.org/10.1142/9789811294631_0028](https://doi.org/10.1142/9789811294631_0028)
