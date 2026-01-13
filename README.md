@@ -25,83 +25,83 @@ Timeframe: applied November 2025, symposium will be held on x/9/2026\
 Funding Source: OJO Call UAntwerp\
 Funding Amount: € 4,000\
 Role:  supervisor and grant holder\
-Status: Approved\
+Status: Approved
 
 - Project Title: PreMaNRM2 – Predictive Maintenance for Non-Road Mobile Machinery
-Timeframe: applied June 2025, project November 2025 - October 2026
-Funding Source: AUHA Zaaifonds voor onderzoekssamenwerking
-Funding Amount: € 25,000
-Role:  supervisor and grant holder
+Timeframe: applied June 2025, project November 2025 - October 2026\
+Funding Source: AUHA Zaaifonds voor onderzoekssamenwerking\
+Funding Amount: € 25,000\
+Role:  supervisor and grant holder\
 Status: Approved, ongoing
 
 - Project Title: Symposium on How to Exploit Uncertainty in Research
-Timeframe: applied November 2024, symposium was be held on 3/9/2025
-Funding Source: OJO Call UAntwerp
-Funding Amount: € 4,000
-Role:  supervisor and grant holder
+Timeframe: applied November 2024, symposium was be held on 3/9/2025\
+Funding Source: OJO Call UAntwerp\
+Funding Amount: € 4,000\
+Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: Implicit Camera Calibration
-Timeframe: applied November 2024, project April 2025 – October 2025
-Funding Source: BOF KP UAntwerp
-Funding Amount: € 10,000
-Role:  supervisor and grant holder
+Timeframe: applied November 2024, project April 2025 – October 2025\
+Funding Source: BOF KP UAntwerp\
+Funding Amount: € 10,000\
+Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models,
-Timeframe: October 2024 – September 2027
-Funding Source: FWO Postdoctoral Fellowship
-Funding Amount: € 380.000
-Role: grant holder, fellow
+Timeframe: October 2024 – September 2027\
+Funding Source: FWO Postdoctoral Fellowship\
+Funding Amount: € 380.000\
+Role: grant holder, fellow\
 Status: Approved, ongoing
 
 - Project Title: Virtual Reality application for Treatment of Spatial Neglect
-Timeframe: September 2020 – August 2021
-Funding Source: IOF POC UAntwerp
-Funding Amount: € 86,034.55
-Role:  50/50 effort with MOVANT University of Antwerp
+Timeframe: September 2020 – August 2021\
+Funding Source: IOF POC UAntwerp\
+Funding Amount: € 86,034.55\
+Role:  50/50 effort with MOVANT University of Antwerp\
 Status: Completed
 
 - Project Title: AI in XR, toolkit for AI-development in XR-applications
-Timeframe: September 2019 – August 2020
-Funding Source: PWO Karel de Grote University College
-Funding Amount: € 138,223
-Role:  supervisor and grant holder
+Timeframe: September 2019 – August 2020\
+Funding Source: PWO Karel de Grote University College\
+Funding Amount: € 138,223\
+Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: ImmersiMed
-Timeframe: September 2019 – August 2020
-Funding Source: Innovation Fund Karel de Grote University College
-Funding Amount: € 37,860
-Role:  supervisor and grant holder
+Timeframe: September 2019 – August 2020\
+Funding Source: Innovation Fund Karel de Grote University College\
+Funding Amount: € 37,860\
+Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: Education 4.0
-Timeframe: September 2018 – August 2021,
-Funding Source: VLAIO Living Lab (Proeftuinen)
-Funding Amount: € 343,968.00
-Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA
+Timeframe: September 2018 – August 2021,\
+Funding Source: VLAIO Living Lab (Proeftuinen)\
+Funding Amount: € 343,968.00\
+Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA\
 Status: Completed
 
 - Project Title:  IoTTo, IoT-platform for real time vehicle data
-Timeframe: September 2019 – August 2020
-Funding Source: PWO Karel de Grote University College
-Funding Amount: € 191,765
-Role:  grant application
+Timeframe: September 2019 – August 2020\
+Funding Source: PWO Karel de Grote University College\
+Funding Amount: € 191,765\
+Role:  grant application\
 Status: Completed
 
 - Project Title:  ELGAS, Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen
-Timeframe: September 2019 – August 2020
-Funding Source: VLAIO TETRA
-Funding Amount: € 197,154.75
-Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO
+Timeframe: September 2019 – August 2020\
+Funding Source: VLAIO TETRA\
+Funding Amount: € 197,154.75\
+Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO\
 Status: Completed
 
 - Project Title:  Collaborative XR Lab
-Timeframe: September 2018 – August 2020
-Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen
-Funding Amount: € 250,423.46
-Role:  supervisor, grant application 50/50 effort with coworker
+Timeframe: September 2018 – August 2020\
+Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen\
+Funding Amount: € 250,423.46\
+Role:  supervisor, grant application 50/50 effort with coworker\
 Status: Completed
 
 
