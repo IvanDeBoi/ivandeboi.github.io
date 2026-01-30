@@ -165,9 +165,10 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 ## Reviews
 - IEEE Transactions on Instrumentation and Measurement
+- Elsevier Measurement
 - Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics
 - Springer Nonlinear Dynamics
-- The 12th International Conference on Control, Mechatronics and Automation (ICCMA 2024), [ICCMA](https://www.iccma.org/committee.html)
+- International Conference on Control, Mechatronics and Automation (edition 2024, 2025), [ICCMA](https://www.iccma.org/committee.html)
 - BMVC 2025, The 36th British Machine Vision Conference
 - I also review for VLAIO (afdeling Innovatiesteun van het Agentschap Innoveren & Ondernemen) as an expert on AI and AR/VR.
 
