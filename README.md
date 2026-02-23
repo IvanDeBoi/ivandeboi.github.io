@@ -120,6 +120,7 @@ Publication number: WO2022/122834
 
 ## Talks
 - 08/09/2025, Constraints on GP Predictions, Gaussian Process Summer School 2025, University of Manchester, 40 attendees
+- 25/08/2025, Bayesian Optimisation Summer School 2025, Hasselt University, 30 attendees
 - 15/07/2025, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
 - 20/01/2025, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
 - 4/12/24, How to Exploit Uncertainty in AI for XR development, invited talk, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
@@ -323,6 +324,7 @@ Jorissen Pieter, De Boi Ivan,
 
 - Santiago Ramos Garces, successfully defended "Enhanced performance of automatic tuning in isotope separation online systems through Bayesian optimization" on 1/12/2025
 - Mengdi Lu, "The Assessment and Treatment of Visuospatial Neglect After Using A Self-developed Virtual Reality Application", Expected submission of thesis (quarter/year): 04/2027
+- Marnix Van Soom, "Bayesian Nonparametric Glottal Inverse Filtering", Expected submission of thesis (quarter/year): 02/2026
 
 # Mock Publications
 Do not take these seriously. Although, ...
