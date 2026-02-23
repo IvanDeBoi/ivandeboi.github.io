@@ -119,30 +119,31 @@ Publication number: WO2022/122834
 
 
 ## Talks
-- 08/09/2025, Constraints on GP Predictions, Gaussian Process Summer School 2025, University of Manchester, 40 attendees
-- 25/08/2025, Bayesian Optimisation Summer School 2025, Hasselt University, 30 attendees
-- 15/07/2025, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
-- 20/01/2025, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
+- 18/12/25, Introduction to Gaussian Processes, University of Namur, 30 attendees
+- 08/09/25, Constraints on GP Predictions, Gaussian Process Summer School 2025, University of Manchester, 40 attendees
+- 25/08/25, Bayesian Optimisation Summer School 2025, Hasselt University, 30 attendees
+- 15/07/25, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
+- 20/01/25, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
 - 4/12/24, How to Exploit Uncertainty in AI for XR development, invited talk, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
-- 23/01/2024, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
-- 27/11/2023, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
-- 5/10/2023, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
-- 24/5/2023, On straight lines and machine learning, invited talk, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
-- 1/2/2023, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
-- 7/4/2022, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
-- 7/9/2020, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
-- 12/12/2019, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
-- 16/11/2018, Unlock the power of AR, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
-- 18/4/2018, ImmersiMed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
-- 16/11/2017, Jumpstart into Hololens development with Unity, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 23/01/24, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 27/11/23, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
+- 5/10/23, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
+- 24/5/23, On straight lines and machine learning, invited talk, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
+- 1/2/23, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
+- 7/4/22, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
+- 7/9/20, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
+- 12/12/19, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
+- 16/11/18, Unlock the power of AR, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 18/4/18, ImmersiMed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
+- 16/11/17, Jumpstart into Hololens development with Unity, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
 
 ## Science Communication
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees, I won the audience award for my pitch
 - 4/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
-- 24/11/2019, Dag van de wetenschap, VR demonstration ImmersiMed, an application to train medical personnel, >1000 attendees
-- 29/9-30/9 2018, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
-- 25/11/2018, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
+- 24/11/19, Dag van de wetenschap, VR demonstration ImmersiMed, an application to train medical personnel, >1000 attendees
+- 29/9-30/9 18, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
+- 25/11/18, Dag van de wetenschap, AR demonstration on Smart Vending Machines, >1000 attendees
 
 
 ## Network on Gaussian Processes
