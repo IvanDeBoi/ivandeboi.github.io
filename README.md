@@ -18,7 +18,14 @@ I graduated with a degree in Electronics Engineering in 2001 and worked in indus
 
 # Acquired Grants
 
-## Total: € 1,664,432.76 
+## Total: € 1,916,132.76 
+
+- Project Title: Bayesian optimization algorithms for ISOL ion source optimal tunning and characterization
+Timeframe: September 2026 - September 2030\
+Funding Source: SCK CEN\
+Funding Amount: € 251,700\
+Role:  supervisor, grant application 25% me, 75% SCK CEN\
+Status: Approved
 
 - Project Title: Symposium on How to Exploit Uncertainty in Research II
 Timeframe: applied November 2025, symposium will be held on x/9/2026\
@@ -324,10 +331,10 @@ Jorissen Pieter, De Boi Ivan,
 
 # PhD Students
 
-
+- Noa Eeckhaut-Racon, "Bayesian optimization algorithms applied to ISOL ion source tuning and characterization", Expected submission of thesis (quarter/year): 04/2030 
 - Matteo Impieri, "Design and calibration of AI-powered camera systems for armoured vehicles", Expected submission of thesis (quarter/year): 04/2029
 - Mengdi Lu, "The Assessment and Treatment of Visuospatial Neglect After Using A Self-developed Virtual Reality Application", Expected submission of thesis (quarter/year): 04/2027
-- Marnix Van Soom, "Bayesian Nonparametric Glottal Inverse Filtering", Expected submission of thesis (quarter/year): 03/2026
+- Marnix Van Soom, "Bayesian Nonparametric Glottal Inverse Filtering", Expected submission of thesis (quarter/year): 04/2026
 - Santiago Ramos Garces, successfully defended "Enhanced performance of automatic tuning in isotope separation online systems through Bayesian optimization" on 1/12/2025
 
 # Mock Publications
