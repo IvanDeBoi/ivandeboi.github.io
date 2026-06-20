@@ -1,3 +1,20 @@
+<table>
+  <tr>
+    <td width="180" valign="middle">
+      <img src="assets/images/me.png" alt="Ivan De Boi" width="160">
+    </td>
+    <td valign="middle">
+      <h1>Ivan De Boi</h1>
+      <p>
+        <a href="mailto:ivan.deboi@gmail.com" target="_blank"><img src="assets/images/mail.svg" alt="Email" width="32" height="32"></a>
+        <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"><img src="assets/images/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32"></a>
+        <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60" alt="Google Scholar" width="32" height="32"></a>
+        <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"><img src="assets/images/ORCID_iD.svg" alt="ORCID" width="32" height="32"></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 # About me
 My research lies at the intersection of geometric machine learning, uncertainty quantification, and optimization under uncertainty. I develop probabilistic models and optimization methods that explicitly exploit the geometry of structured state spaces, including projective and manifold-valued representations. Rather than forcing complex systems into conventional Euclidean formulations, my work seeks to leverage their underlying geometric structure to improve learning, inference, calibration, and decision-making.
 
@@ -20,7 +37,6 @@ Ultimately, I seek to bridge geometry, probability, and optimization, enabling t
 - Bayesian Inverse Problems
 - Projective and Manifold Geometry
 
-<a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
 <!-- 
 # Current FWO-postdoctoral work
