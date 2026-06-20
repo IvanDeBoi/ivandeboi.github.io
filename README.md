@@ -1,10 +1,10 @@
-<table>
+<table width="100%">
   <tr>
     <td width="180" valign="middle">
       <img src="assets/images/me.png" alt="Ivan De Boi" width="160">
     </td>
-    <td valign="middle">
-      <h1>Ivan De Boi</h1>
+    <td valign="middle" width="100%">
+      <h1>Ivan De Boi - FWO postdoctoral fellow</h1>
       <p>
         <a href="mailto:ivan.deboi@gmail.com" target="_blank"><img src="assets/images/mail.svg" alt="Email" width="32" height="32"></a>
         <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"><img src="assets/images/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32"></a>
@@ -27,7 +27,7 @@ While the field of geometric machine learning has made significant strides in sh
 
 My long-term research objective is to establish a unified framework for geometry-aware probabilistic machine learning and optimization under uncertainty. This includes the development of Gaussian-process models, Bayesian optimization algorithms, and uncertainty quantification techniques that explicitly exploit geometric structure. Such methods offer new opportunities for formulating Bayesian inverse problems, improving sample efficiency, incorporating prior knowledge, and obtaining interpretable uncertainty estimates.
 
-Ultimately, I seek to bridge geometry, probability, and optimization, enabling the next generation of uncertainty-aware learning systems for applications ranging from medical imaging and computer vision to nuclear science and autonomous systems.
+Ultimately, I seek to bridge geometry, probability, and optimization, enabling the next generation of uncertainty-aware learning systems for contemporary scientific challenges and industrial applications.
 
 # Research Interests
 - Bayesian Optimization
