@@ -1,9 +1,9 @@
 <table width="100%">
   <tr>
-    <td width="180" valign="middle">
+    <td width="20%" valign="middle">
       <img src="assets/images/me.png" alt="Ivan De Boi" width="160">
     </td>
-    <td valign="middle" width="100%">
+    <td width="80%" valign="middle">
       <h1>Ivan De Boi - FWO postdoctoral fellow</h1>
       <p>
         <a href="mailto:ivan.deboi@gmail.com" target="_blank"><img src="assets/images/mail.svg" alt="Email" width="32" height="32"></a>
