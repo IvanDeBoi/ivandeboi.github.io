@@ -184,6 +184,7 @@ Publication number: WO2022/122834
 - 7/9/20, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
 - 12/12/19, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
 - 18/4/18, ImmersiMed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
+
 ## Science Communication
 - 4/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
 - 24/11/19, Dag van de wetenschap, VR demonstration ImmersiMed, an application to train medical personnel, >1000 attendees
