@@ -3,9 +3,11 @@ My research operates at the intersection of geometric machine learning, uncertai
 
 <a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
-%# Current FWO-postdoctoral work
+<!-- 
+# Current FWO-postdoctoral work
 
 %![Image Alt text](/assets/images/endo.png)
+-->
 
 # Work Experience
 - Sep 2024 - ongoing, postdoctoral research fellow FWO
