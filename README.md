@@ -1,5 +1,24 @@
 # About me
-My research operates at the intersection of geometric machine learning, uncertainty quantification, and optimization under uncertainty, focusing specifically on structured state spaces such as projective manifolds. Rather than embedding complex systems into traditional Euclidean spaces, my work develops geometry-aware probabilistic models and optimization methods. I have a proven track record of leading research in this domain, including acquiring funding, supervising PhDs, and publishing across Gaussian processes, safe optimization, and Bayesian optimization. While traditional numerical analysis has optimized subspaces for decades via model reduction, my research addresses a novel, modern frontier: how these geometrically structured spaces can be learned, represented probabilistically, and optimized under uncertainty, providing a natural framework to address complex Bayesian inverse problems. Bridging foundational applied mathematics with high-impact applications (spanning medical imaging, computer vision, nuclear physics, rehabilitation sciences, predictive maintenance, ...) my methodological program offers a distinctive, interdisciplinary approach to discovering, calibrating, and controlling complex systems.
+My research lies at the intersection of geometric machine learning, uncertainty quantification, and optimization under uncertainty. I develop probabilistic models and optimization methods that explicitly exploit the geometry of structured state spaces, including projective and manifold-valued representations. Rather than forcing complex systems into conventional Euclidean formulations, my work seeks to leverage their underlying geometric structure to improve learning, inference, calibration, and decision-making.
+
+A central theme throughout my research is the development of geometry-aware probabilistic methods capable of quantifying uncertainty while respecting physical, geometric, or mathematical constraints. My methodological contributions span Gaussian processes, Bayesian optimization, geometric inverse problems, manifold-based representations, and uncertainty-aware machine learning.
+
+These methods have been applied across a diverse range of domains, including computer vision, medical imaging, rehabilitation sciences, nuclear physics, and predictive maintenance. By bridging foundational applied mathematics with modern machine learning, I aim to develop principled frameworks for discovering, calibrating, and controlling complex systems under uncertainty.
+
+# Research Vision
+While the field of geometric machine learning has made significant strides in shifting away from purely Euclidean assumptions, integrating these geometries deeply into probabilistic frameworks remains a critical frontier. Numerous scientific and engineering problems naturally live on structured spaces such as manifolds, projective spaces, geometric transformations, constrained state spaces, and subspaces, requiring methods that respect these intrinsic properties.
+
+My long-term research objective is to establish a unified framework for geometry-aware probabilistic machine learning and optimization under uncertainty. This includes the development of Gaussian-process models, Bayesian optimization algorithms, and uncertainty quantification techniques that explicitly exploit geometric structure. Such methods offer new opportunities for formulating Bayesian inverse problems, improving sample efficiency, incorporating prior knowledge, and obtaining interpretable uncertainty estimates.
+
+Ultimately, I seek to bridge geometry, probability, and optimization, enabling the next generation of uncertainty-aware learning systems for applications ranging from medical imaging and computer vision to nuclear science and autonomous systems.
+
+# Research Interests
+- Bayesian Optimization
+- Uncertainty Quantification
+- Geometric Machine Learning
+- Gaussian Processes
+- Bayesian Inverse Problems
+- Projective and Manifold Geometry
 
 <a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
@@ -9,114 +28,106 @@ My research operates at the intersection of geometric machine learning, uncertai
 %![Image Alt text](/assets/images/endo.png)
 -->
 
-# Work Experience
-- Sep 2024 - ongoing, postdoctoral research fellow FWO
-- May 2024 - Sep 2024, postdoctoral researcher University of Antwerp
-- Feb 2021 - May 2024, PhD student University of Antwerp
-- Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
-- Feb 2017 - Jun 2017, Unity Developer, BUT (part time)
-- Feb 2002 - Feb 2007, Application Engineer VRT
-- Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
 
 # Acquired Grants
 
-## Total: € 2,396,132.76 
+## Total: â‚¬ 2,396,132.76 
 
 - Project Title: Predictive Maintenance for Non-Road Mobile Machinery
 Timeframe: September 2026 - August 2028\
 Funding Source: VLAIO TETRA\
-Funding Amount: € 480,000\
+Funding Amount: â‚¬ 480,000\
 Role:  supervisor, grant application 50/50 with KdG Univesity College\
 Status: Approved
 
 - Project Title: Bayesian optimization algorithms for ISOL ion source optimal tunning and characterization
 Timeframe: September 2026 - September 2030\
 Funding Source: SCK CEN\
-Funding Amount: € 251,700\
+Funding Amount: â‚¬ 251,700\
 Role:  supervisor, grant application 25% me, 75% SCK CEN\
 Status: Approved
 
 - Project Title: Symposium on How to Exploit Uncertainty in Research II
 Timeframe: applied November 2025, symposium will be held on x/9/2026\
 Funding Source: OJO Call UAntwerp\
-Funding Amount: € 4,000\
+Funding Amount: â‚¬ 4,000\
 Role:  supervisor and grant holder\
 Status: Approved
 
-- Project Title: PreMaNRM2 – Predictive Maintenance for Non-Road Mobile Machinery
+- Project Title: PreMaNRM2 â€“ Predictive Maintenance for Non-Road Mobile Machinery
 Timeframe: applied June 2025, project November 2025 - October 2026\
 Funding Source: AUHA Zaaifonds voor onderzoekssamenwerking\
-Funding Amount: € 25,000\
+Funding Amount: â‚¬ 25,000\
 Role:  supervisor and grant holder\
 Status: Approved, ongoing
 
 - Project Title: Symposium on How to Exploit Uncertainty in Research
 Timeframe: applied November 2024, symposium was be held on 3/9/2025\
 Funding Source: OJO Call UAntwerp\
-Funding Amount: € 4,000\
+Funding Amount: â‚¬ 4,000\
 Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: Implicit Camera Calibration
-Timeframe: applied November 2024, project April 2025 – October 2025\
+Timeframe: applied November 2024, project April 2025 â€“ October 2025\
 Funding Source: BOF KP UAntwerp\
-Funding Amount: € 10,000\
+Funding Amount: â‚¬ 10,000\
 Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models,
-Timeframe: October 2024 – September 2027\
+Timeframe: October 2024 â€“ September 2027\
 Funding Source: FWO Postdoctoral Fellowship\
-Funding Amount: € 380.000\
+Funding Amount: â‚¬ 380.000\
 Role: grant holder, fellow\
 Status: Approved, ongoing
 
 - Project Title: Virtual Reality application for Treatment of Spatial Neglect
-Timeframe: September 2020 – August 2021\
+Timeframe: September 2020 â€“ August 2021\
 Funding Source: IOF POC UAntwerp\
-Funding Amount: € 86,034.55\
+Funding Amount: â‚¬ 86,034.55\
 Role:  50/50 effort with MOVANT University of Antwerp\
 Status: Completed
 
 - Project Title: AI in XR, toolkit for AI-development in XR-applications
-Timeframe: September 2019 – August 2020\
+Timeframe: September 2019 â€“ August 2020\
 Funding Source: PWO Karel de Grote University College\
-Funding Amount: € 138,223\
+Funding Amount: â‚¬ 138,223\
 Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: ImmersiMed
-Timeframe: September 2019 – August 2020\
+Timeframe: September 2019 â€“ August 2020\
 Funding Source: Innovation Fund Karel de Grote University College\
-Funding Amount: € 37,860\
+Funding Amount: â‚¬ 37,860\
 Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: Education 4.0
-Timeframe: September 2018 – August 2021,\
+Timeframe: September 2018 â€“ August 2021,\
 Funding Source: VLAIO Living Lab (Proeftuinen)\
-Funding Amount: € 343,968.00\
+Funding Amount: â‚¬ 343,968.00\
 Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA\
 Status: Completed
 
 - Project Title:  IoTTo, IoT-platform for real time vehicle data
-Timeframe: September 2019 – August 2020\
+Timeframe: September 2019 â€“ August 2020\
 Funding Source: PWO Karel de Grote University College\
-Funding Amount: € 191,765\
+Funding Amount: â‚¬ 191,765\
 Role:  grant application\
 Status: Completed
 
 - Project Title:  ELGAS, Effecten van Luchtkwaliteit op de Gezondheid in Accommodaties van Schepen
-Timeframe: September 2019 – August 2020\
+Timeframe: September 2019 â€“ August 2020\
 Funding Source: VLAIO TETRA\
-Funding Amount: € 197,154.75\
+Funding Amount: â‚¬ 197,154.75\
 Role:  grant application 25% me, 50% Antwerp Maritime Academy (Hogere Zeevaartschool), 25% VITO\
 Status: Completed
 
 - Project Title:  Collaborative XR Lab
-Timeframe: September 2018 – August 2020\
+Timeframe: September 2018 â€“ August 2020\
 Funding Source: VLAIO, Steun voor onderzoeksinfrastructuur bij hogescholen\
-Funding Amount: € 250,423.46\
+Funding Amount: â‚¬ 250,423.46\
 Role:  supervisor, grant application 50/50 effort with coworker\
 Status: Completed
 
@@ -134,28 +145,29 @@ Publication number: WO2022/122834
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
 
-## Talks
-- UPCOMMING 30/6/26, Beyond Euclidean - Beyond Euclidean: A Conceptual Review of Distance Metrics and Dissimilarity Measures in Contemporary Machine Learning, 20th Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens (Greece)
+## Invited Talks
 - 27/3/26, Gaussian Processes, Eindhoven University of Technology (NL), 16 attendees
 - 18/12/25, Introduction to Gaussian Processes, University of Namur, 30 attendees
-- 08/09/25, Constraints on GP Predictions, Gaussian Process Summer School 2025, invited talk, University of Manchester, 40 attendees
-- 25/08/25, Bayesian Optimisation Summer School 2025, invited talk, Hasselt University, 30 attendees
+- 08/09/25, Constraints on GP Predictions, Gaussian Process Summer School 2025, University of Manchester, 40 attendees
+- 25/08/25, Bayesian Optimisation Summer School 2025, Hasselt University, 30 attendees
+- 20/01/25, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
+- 4/12/24, How to Exploit Uncertainty in AI for XR development, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
+- 23/01/24, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 24/5/23, On straight lines and machine learning, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
+- 1/2/23, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
+- 16/11/18, Unlock the power of AR, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 16/11/17, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+
+## Conference Talks
+- UPCOMMING 30/6/26, Beyond Euclidean - Beyond Euclidean: A Conceptual Review of Distance Metrics and Dissimilarity Measures in Contemporary Machine Learning, 20th Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens (Greece)
 - 15/07/25, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
-- 20/01/25, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
-- 4/12/24, How to Exploit Uncertainty in AI for XR development, invited talk, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
-- 23/01/24, How to do more with uncertainty in AI, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
 - 27/11/23, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
 - 5/10/23, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
-- 24/5/23, On straight lines and machine learning, invited talk, Systems and Robotics of the university of Coimbra (Portugal), 15 attendees
-- 1/2/23, Straight lines in robotics, Machine Learning Research Group of Oxford (UK), 10 attendees
 - 7/4/22, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
 - 7/9/20, A taxonomy of contemporary artificial intelligence techniques used in virtual reality training and simulations, SciFi-It conference, 20 attendees
-- 12/12/19, Gaussian Processes – Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
-- 16/11/18, Unlock the power of AR, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
+- 12/12/19, Gaussian Processes â€“ Literature Study 2019, lunch seminar hosted by InViLab University of Antwerp, 32 attendees
 - 18/4/18, ImmersiMed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
-- 16/11/17, Jumpstart into Hololens development with Unity, invited talk, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
-
 ## Science Communication
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees, I won the audience award for my pitch
 - 4/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
@@ -165,7 +177,7 @@ Publication number: WO2022/122834
 
 
 ## Network on Gaussian Processes
-In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor Søren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
+In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor SÃ¸ren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
 
 ## Member of
 - 25 - ongoing, Member of COST Action Extended Reality Neurorehabilitation of Spatial Neglect and Related Disorders After Brain Injury (neuroXRehab), WG2 Assessment of spatial neglect and related disorders and WG3 Treatment of spatial neglect and related disorders, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)
@@ -179,11 +191,11 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 ## Awards
 - I won the audience award for my pitch on Gauss as GOAT @MathFest24.
-- Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
+- Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-ITâ€™2018 Conference (April 18-20 2018).
 - Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022)
 - In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
 
-## Reviews
+## Reviewing Activities
 - IEEE Transactions on Instrumentation and Measurement
 - Elsevier Measurement
 - Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics
@@ -207,12 +219,12 @@ Journal of Imaging 12, no. 1: 33. [https://doi.org/10.1016/j.nimb.2025.165859](h
 ### A1 Journal
 
 Isotope Separator On-Line system tuning: Bayesian optimization applied to the transport beamline case,
-Santiago Ramos Garces, Line Le, Mia Au, Alexander Schmidt, João Pedro Ramos, Marc Dierckx, Dinko Atanasov, Ivan De Boi, Sebastian Rothe, Lucia Popescu, Stijn Derammelaere. 2025.
+Santiago Ramos Garces, Line Le, Mia Au, Alexander Schmidt, JoÃ£o Pedro Ramos, Marc Dierckx, Dinko Atanasov, Ivan De Boi, Sebastian Rothe, Lucia Popescu, Stijn Derammelaere. 2025.
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms. 2025/11/1. Volume 568. [https://doi.org/10.1016/j.nimb.2025.165859](https://doi.org/10.1016/j.nimb.2025.165859)
 
 Use of Immersive Virtual Reality to Explore Visual Search Behaviour in Individuals with Visuospatial Neglect after Stroke, 
 Elissa Embrechts, Ivan De Boi, Quirine Schatteman, Tanja C. W. Nijboer, Steven Truijen, and Wim Saeys. 2025, 
-Neuropsychological Rehabilitation, June, 1–28. [https://doi:10.1080/09602011.2025.2511193](doi:10.1080/09602011.2025.2511193).
+Neuropsychological Rehabilitation, June, 1â€“28. [https://doi:10.1080/09602011.2025.2511193](doi:10.1080/09602011.2025.2511193).
 
 On the Measurement of Laser Lines in 3D Space with Uncertainty Estimation,
 Ivan De Boi, Nasser Ghaderi, Steve Vanlanduit, Rudi Penne,  Sensors 2025, 25, 298.
@@ -225,7 +237,7 @@ Ivan De Boi, Rudi Penne, Proceedings of Bridges 2025 : Mathematics and the Arts 
 [https://archive.bridgesmathart.org/2025/bridges2025-483.html#gsc.tab=0](https://archive.bridgesmathart.org/2025/bridges2025-483.html#gsc.tab=0).
 
 Safe Bayesian optimization with simulation-informed Gaussian process for the constraints, 
-Santiago Ramos Garces, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, Stijn Derammelaere,
+Santiago Ramos Garces, Ivan De Boi, JoÃ£o Pedro Ramos, Marc Dierckx, Lucia Popescu, Stijn Derammelaere,
 ICAAI '24: Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence, Pages 66 - 72, [https://doi.org/10.1145/3704137.3704157](https://doi.org/10.1145/3704137.3704157)
 
 
@@ -246,7 +258,7 @@ Abdelmajid Ben Yahya, Robbe De Laet, Santiago Ramos Garces, Nick Van Oosterwyck,
 [https://doi.org/10.1109/ICCMA63715.2024.10843905](https://doi.org/10.1109/ICCMA63715.2024.10843905)
 
 Efficient Tuning of an Isotope Separation Online System Through Safe Bayesian Optimization with Simulation-Informed Gaussian Process for the Constraints,
-Garces, Santiago Ramos, Ivan De Boi, João Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696.
+Garces, Santiago Ramos, Ivan De Boi, JoÃ£o Pedro Ramos, Marc Dierckx, Lucia Popescu, and Stijn Derammelaere, 2024, Mathematics 12, no. 23: 3696.
 [https://doi.org/10.3390/math12233696](https://doi.org/10.3390/math12233696)
 
 Mechanism design optimization through CAD-based Bayesian optimization and quantified constraints, Ben Yahya Abdelmajid, Ramos Garces Santiago, Van Oosterwyck Nick, De Boi Ivan, Cuyt Annie, Derammelaere Stijn, Discov Mechanical Engineering 3, 21 (2024).
@@ -259,7 +271,7 @@ Artificial intelligence in medicine - ISSN 0933-3657 - 149(2024),
 
 ### P1 Conference
 Simulation-informed Gaussian Processes for Accelerated Bayesian Optimisation,
-Santiago Ramos Garces, Ivan De Boi, Rudi Penne, João Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, 
+Santiago Ramos Garces, Ivan De Boi, Rudi Penne, JoÃ£o Pedro Ramos, Marc Dierckx, and Stijn Derammelaere, 
 Intelligent Management of Data and Information in Decision Making. August 2024, 219-226
 [https://doi.org/10.1142/9789811294631_0028](https://doi.org/10.1142/9789811294631_0028)
 
@@ -273,7 +285,7 @@ Measurement / International Measurement Confederation - ISSN 1873-412X - 213(202
 [https://doi.org/10.1016/J.MEASUREMENT.2023.112726](https://doi.org/10.1016/J.MEASUREMENT.2023.112726)
 
 Enhanced checkerboard detection using Gaussian processes,
-Hillen Michaël, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve,
+Hillen MichaÃ«l, De Boi Ivan, De Kerf Thomas, Sels Seppe, Cardenas Edgar, Gladines Jona, Steenackers Gunther, Penne Rudi, Vanlanduit Steve,
 Mathematics - ISSN 2227-7390 - 11:22(2023),
 [https://doi.org/10.3390/MATH11224568](https://doi.org/10.3390/MATH11224568)
 
@@ -346,6 +358,15 @@ Jorissen Pieter, De Boi Ivan,
 - Mengdi Lu, "The Assessment and Treatment of Visuospatial Neglect After Using A Self-developed Virtual Reality Application", Expected submission of thesis (quarter/year): 04/2027
 - Marnix Van Soom, "Bayesian Nonparametric Glottal Inverse Filtering", Expected submission of thesis (quarter/year): 04/2026
 - Santiago Ramos Garces, successfully defended "Enhanced performance of automatic tuning in isotope separation online systems through Bayesian optimization" on 1/12/2025
+
+# Work Experience
+- Sep 2024 - ongoing, postdoctoral research fellow FWO
+- May 2024 - Sep 2024, postdoctoral researcher University of Antwerp
+- Feb 2021 - May 2024, PhD student University of Antwerp
+- Feb 2009 - Jan 2021, Lecturer and Research Coordinator, Karel de Grote Hogeschool
+- Feb 2017 - Jun 2017, Unity Developer, BUT (part time)
+- Feb 2002 - Feb 2007, Application Engineer VRT
+- Mar 2007 - Jan 2009, Project Engineer Test & Maintenance, Atlas Copco
 
 # Mock Publications
 Do not take these seriously. Although, ...
