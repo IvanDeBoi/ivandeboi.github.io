@@ -53,7 +53,7 @@ Ultimately, I seek to bridge geometry, probability, and optimization, enabling t
 Timeframe: September 2026 - August 2028\
 Funding Source: VLAIO TETRA\
 Funding Amount: € 480,000\
-Role:  supervisor, grant application 50/50 with KdG Univesity College\
+Role:  supervisor, grant application 50/50 with KdG University College\
 Status: Approved
 
 - Project Title: Bayesian optimization algorithms for ISOL ion source optimal tunning and characterization\
