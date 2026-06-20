@@ -1,11 +1,11 @@
 # About me
-I graduated with a degree in Electronics Engineering in 2001 and worked in industry for a while. Later, I became a lecturer and research coordinator at Karel de Grote Hogeschool, teaching Unity3D game engine, AR/VR, and machine learning. I completed my PhD at the University of Antwerp's Industrial Vision Group (InViLab), focusing on Gaussian processes for 3D measurements. Currently, I'm a postdoctoral researcher working on using Gaussian processes to calibrate unconventional cameras. My main interest involves uncertainty quantification and how it can be combined with 3D projective geometry to discover hidden strucures in data.
+My research operates at the intersection of geometric machine learning, uncertainty quantification, and optimization under uncertainty, focusing specifically on structured state spaces such as projective manifolds. Rather than embedding complex systems into traditional Euclidean spaces, my work develops geometry-aware probabilistic models and optimization methods. I have a proven track record of leading research in this domain, including acquiring funding, supervising PhDs, and publishing across Gaussian processes, safe optimization, and Bayesian optimization. While traditional numerical analysis has optimized subspaces for decades via model reduction, my research addresses a novel, modern frontier: how these geometrically structured spaces can be learned, represented probabilistically, and optimized under uncertainty, providing a natural framework to address complex Bayesian inverse problems. Bridging foundational applied mathematics with high-impact applications (spanning medical imaging, computer vision, nuclear physics, rehabilitation sciences, predictive maintenance, ...) my methodological program offers a distinctive, interdisciplinary approach to discovering, calibrating, and controlling complex systems.
 
 <a href="mailto:ivan.deboi@gmail.com" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/mail.svg"></a> <a href="https://www.linkedin.com/in/ivan-de-boi-8014144/" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/98046b257dcaa333bd5d89ece709df00a40efed8/assets/images/LinkedIn_icon.svg"></a> <a href="https://scholar.google.be/citations?user=t28fvokAAAAJ&hl=nl" target="_blank"  width="100" height="100"><img src="https://lh3.googleusercontent.com/b3K6HUF_rNzMlsVAbVqmZhlEgmhkmihjlVTKH8JKr-CuZX80LDYbnChZxK2_sd69cRarQvrmFX2yDAhx8zXggfAT=s60"></a> <a href="https://orcid.org/0000-0003-3060-262X" target="_blank"  width="100" height="100"><img src="https://raw.githubusercontent.com/IvanDeBoi/ivandeboi.github.io/18458eaa811ca8bfcd2543d20bd0ded1384afb18/assets/images/ORCID_iD.svg"></a>
 
-# Current FWO-postdoctoral work
+%# Current FWO-postdoctoral work
 
-![Image Alt text](/assets/images/endo.png)
+%![Image Alt text](/assets/images/endo.png)
 
 # Work Experience
 - Sep 2024 - ongoing, postdoctoral research fellow FWO
@@ -18,7 +18,14 @@ I graduated with a degree in Electronics Engineering in 2001 and worked in indus
 
 # Acquired Grants
 
-## Total: € 1,916,132.76 
+## Total: € 2,396,132.76 
+
+- Project Title: Predictive Maintenance for Non-Road Mobile Machinery
+Timeframe: September 2026 - August 2028\
+Funding Source: VLAIO TETRA\
+Funding Amount: € 480,000\
+Role:  supervisor, grant application 50/50 with KdG Univesity College\
+Status: Approved
 
 - Project Title: Bayesian optimization algorithms for ISOL ion source optimal tunning and characterization
 Timeframe: September 2026 - September 2030\
@@ -126,7 +133,8 @@ Publication number: WO2022/122834
 
 
 ## Talks
-- 27/3/26, Gaussian Processes, Eindhoven University of Technology (TUe), 16 attendees
+- UPCOMMING 30/6/26, Beyond Euclidean - Beyond Euclidean: A Conceptual Review of Distance Metrics and Dissimilarity Measures in Contemporary Machine Learning, 20th Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens (Greece)
+- 27/3/26, Gaussian Processes, Eindhoven University of Technology (NL), 16 attendees
 - 18/12/25, Introduction to Gaussian Processes, University of Namur, 30 attendees
 - 08/09/25, Constraints on GP Predictions, Gaussian Process Summer School 2025, invited talk, University of Manchester, 40 attendees
 - 25/08/25, Bayesian Optimisation Summer School 2025, invited talk, Hasselt University, 30 attendees
