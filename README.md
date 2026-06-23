@@ -47,7 +47,7 @@ Ultimately, I seek to bridge geometry, probability, and optimization, enabling t
 
 # Acquired Grants
 
-## Total: € 2,396,132.76 
+## Total: € 2,421,302.76
 
 - Project Title: Predictive Maintenance for Non-Road Mobile Machinery\
 Timeframe: September 2026 - August 2028\
@@ -59,7 +59,7 @@ Status: Approved
 - Project Title: Bayesian optimization algorithms for ISOL ion source optimal tunning and characterization\
 Timeframe: September 2026 - September 2030\
 Funding Source: SCK CEN\
-Funding Amount: € 251,700\
+Funding Amount: € 276,870\
 Role:  supervisor, grant application 25% me, 75% SCK CEN\
 Status: Approved
 
@@ -94,7 +94,7 @@ Status: Completed
 - Project Title: Wireless capsule endoscopy based on Gaussian process latent variable models,\
 Timeframe: October 2024 – September 2027\
 Funding Source: FWO Postdoctoral Fellowship\
-Funding Amount: € 380.000\
+Funding Amount: € 380,000\
 Role: grant holder, fellow\
 Status: Approved, ongoing
 
