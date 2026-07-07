@@ -196,14 +196,15 @@ Publication number: WO2022/122834
 In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor Søren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
 
 ## Academic Service and Memberships
-- 25 - ongoing, Member of COST Action Extended Reality Neurorehabilitation of Spatial Neglect and Related Disorders After Brain Injury (neuroXRehab), WG2 Assessment of spatial neglect and related disorders and WG3 Treatment of spatial neglect and related disorders, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)
-- 25 - ongoing, Member of Management Committee COST Action Adaptive and acquired resistance in gastrointestinal cancers-contemporary and emerging resolutions (AdResCanCER), WG5 Integrated data analyses and machine learning, [https://www.cost.eu/actions/CA24162/](https://www.cost.eu/actions/CA24162/)
-- 24 - ongoing, BAP representative Faculty Educational Council (OWC)
-- 24 - ongoing, Vlaamse Interuniversitaire Raad (VLIR), postdoc representative for University of Antwerp
-- 24 - ongoing, Member of COST Action Randomised Optimisation Algorithms Research Network, WG4 Optimisation under uncertainty, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)  [https://www.roar-net.eu/](https://www.roar-net.eu/)
-- 22-24 PhD student representative in both board and council of Antwerp Doctoral School
-- 22-24 PhD student representative in Faculty Doctoral Committee (FDOC)
-- 22-24 PhD student representative in Faculty Research Council (OZC)
+- 2026 July - Session Chair, 21st Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens, Greece, [https://www.atiner.gr/2026mat-pro](https://www.atiner.gr/2026mat-pro)
+- 2025 - ongoing, Member of COST Action Extended Reality Neurorehabilitation of Spatial Neglect and Related Disorders After Brain Injury (neuroXRehab), WG2 Assessment of spatial neglect and related disorders and WG3 Treatment of spatial neglect and related disorders, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)
+- 2025 - ongoing, Member of Management Committee COST Action Adaptive and acquired resistance in gastrointestinal cancers-contemporary and emerging resolutions (AdResCanCER), WG5 Integrated data analyses and machine learning, [https://www.cost.eu/actions/CA24162/](https://www.cost.eu/actions/CA24162/)
+- 2024 - ongoing, BAP representative Faculty Educational Council (OWC)
+- 2024 - ongoing, Vlaamse Interuniversitaire Raad (VLIR), postdoc representative for University of Antwerp
+- 2024 - ongoing, Member of COST Action Randomised Optimisation Algorithms Research Network, WG4 Optimisation under uncertainty, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)  [https://www.roar-net.eu/](https://www.roar-net.eu/)
+- 2022-2024 PhD student representative in both board and council of Antwerp Doctoral School
+- 2022-2024 PhD student representative in Faculty Doctoral Committee (FDOC)
+- 2022-2024 PhD student representative in Faculty Research Council (OZC)
 
 ## Awards and Honours
 - I won the audience award for my pitch on Gauss as GOAT @MathFest24.
