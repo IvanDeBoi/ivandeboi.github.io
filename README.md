@@ -47,7 +47,7 @@ Ultimately, I seek to bridge geometry, probability, and optimization, enabling t
 
 # Acquired Grants
 
-## Total: € 2,421,302.76
+## Total: € 2,4,302.76
 
 - Project Title: Predictive Maintenance for Non-Road Mobile Machinery\
 Timeframe: September 2026 - August 2028\
@@ -99,7 +99,7 @@ Role: grant holder, fellow\
 Status: Approved, ongoing
 
 - Project Title: Virtual Reality application for Treatment of Spatial Neglect\
-Timeframe: September 2020 – August 2021\
+Timeframe: September 2020 – August 20\
 Funding Source: IOF POC UAntwerp\
 Funding Amount: € 86,034.55\
 Role:  50/50 effort with MOVANT University of Antwerp\
@@ -120,7 +120,7 @@ Role:  supervisor and grant holder\
 Status: Completed
 
 - Project Title: Education 4.0\
-Timeframe: September 2018 – August 2021,\
+Timeframe: September 2018 – August 20,\
 Funding Source: VLAIO Living Lab (Proeftuinen)\
 Funding Amount: € 343,968.00\
 Role:  supervisor for our part, grant application 25% me, 25% Catalisti, 25% IMEC, 25% ACTA\
@@ -156,7 +156,7 @@ Publication number: WO2022/122834
 
 ![Image Alt text](/assets/images/vsn.png)
 
-[Patentscope](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022122834&_cid=P20-LDVEM3-69751-1)
+[Patentscope](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO20222834&_cid=P20-LDVEM3-69751-1)
 
 [YouTube video](https://www.youtube.com/watch?v=rflCHMf4ey4&ab_channel=UAntwerpen)
 
@@ -196,7 +196,7 @@ Publication number: WO2022/122834
 In December 2019 we launched an interdisciplinary interest group regarding the possibilities and the challenges of Gaussian Processes. The objective was (and still is) the organic expansion of a platform for discussions and sharing of ideas on theoretical contributions and practical applications, creating a fertile soil for future cooperation and project proposals. We have had the pleasure to welcome various speakers such as professor Søren Hauberg (Technical University of Denmark), professor Stephen Roberts (Oxford University), professor Carl Henrik Ek (Cambridge University) and many more. Find all of them [here](https://www.invilab.be/research/network-on-gaussian-processes/). Do not hesitate to contact me if you want to get involved.
 
 ## Academic Service and Memberships
-- 2026 July - Session Chair, 21st Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens, Greece, [https://www.atiner.gr/2026mat-pro](https://www.atiner.gr/2026mat-pro)
+- 2026 July - Session Chair, 20st Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens, Greece, [https://www.atiner.gr/2026mat-pro](https://www.atiner.gr/2026mat-pro)
 - 2025 - ongoing, Member of COST Action Extended Reality Neurorehabilitation of Spatial Neglect and Related Disorders After Brain Injury (neuroXRehab), WG2 Assessment of spatial neglect and related disorders and WG3 Treatment of spatial neglect and related disorders, [www.cost.eu/actions/CA22137](www.cost.eu/actions/CA22137)
 - 2025 - ongoing, Member of Management Committee COST Action Adaptive and acquired resistance in gastrointestinal cancers-contemporary and emerging resolutions (AdResCanCER), WG5 Integrated data analyses and machine learning, [https://www.cost.eu/actions/CA24162/](https://www.cost.eu/actions/CA24162/)
 - 2024 - ongoing, BAP representative Faculty Educational Council (OWC)
