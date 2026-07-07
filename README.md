@@ -175,7 +175,7 @@ Publication number: WO2022/122834
 - 16/11/17, Jumpstart into Hololens development with Unity, Applied Computer Science Conference Days, Karel de Grote University College, 100 attendees
 
 ## Conference Talks
-- UPCOMING 30/6/26, Beyond Euclidean - Beyond Euclidean: A Conceptual Review of Distance Metrics and Dissimilarity Measures in Contemporary Machine Learning, 20th Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens (Greece)
+- 30/6/26, Beyond Euclidean - Beyond Euclidean: A Conceptual Review of Distance Metrics and Dissimilarity Measures in Contemporary Machine Learning, 20th Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens (Greece)
 - 15/07/25, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
 - 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
 - 27/11/23, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
@@ -225,6 +225,8 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 ## 2026
 
 ### A1 Journal
+
+Probabilistic Camera Distortion Correction Using Deep Gaussian Processes, Ivan De Boi, Rhys G. Evans, Stuti Pathak, Thomas De Kerf, Marnix Van Soom, Sam Van der Jeught, Helder Araújo, and Rudi Penne. 2026. Journal of Imaging 12, no. 7: 296. [https://doi.org/10.3390/jimaging12070296](https://doi.org/10.3390/jimaging12070296)
 
 A Unified Complex-Fresnel Model for Physically Based Long-Wave Infrared Imaging and Simulation,
 ter Heerdt, Peter, William Keustermans, Ivan De Boi, and Steve Vanlanduit. 2026. 
