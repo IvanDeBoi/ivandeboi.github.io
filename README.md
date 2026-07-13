@@ -27,7 +27,7 @@ While the field of geometric machine learning has made significant strides in sh
 
 My long-term research objective is to establish a unified framework for geometry-aware probabilistic machine learning and optimization under uncertainty. This includes the development of Gaussian-process models, Bayesian optimization algorithms, and uncertainty quantification techniques that explicitly exploit geometric structure. Such methods offer new opportunities for formulating Bayesian inverse problems, improving sample efficiency, incorporating prior knowledge, and obtaining interpretable uncertainty estimates.
 
-Ultimately, I seek to bridge geometry, probability, and optimization, enabling the next generation of uncertainty-aware learning systems for contemporary scientific challenges and industrial applications.
+Ultimately, I seek to bridge geometry, probability, and optimization, enabling the n generation of uncertainty-aware learning systems for contemporary scientific challenges and industrial applications.
 
 # Research Interests
 - Bayesian Optimization
@@ -49,7 +49,7 @@ Ultimately, I seek to bridge geometry, probability, and optimization, enabling t
 
 ## Total: € 2,421,302.76 (excluding funding still under submission)
 
-External (FWO, VLAIO, SCK CEN) € 1,928,416.21
+External (FWO, VLAIO, SCK CEN) € 1,928,416.21\
 Internal (IOF, BOF, OJO, PWO, AUHA, Innovation Fund) € 492,886.55
 
 - Project Title: Predictive Maintenance for Non-Road Mobile Machinery\
