@@ -47,7 +47,10 @@ Ultimately, I seek to bridge geometry, probability, and optimization, enabling t
 
 # Acquired Grants
 
-## Total: € 2,4,302.76
+## Total: € 2,421,302.76 (excluding funding still under submission)
+
+External (FWO, VLAIO, SCK CEN) € 1,928,416.21
+Internal (IOF, BOF, OJO, PWO, AUHA, Innovation Fund) € 492,886.55
 
 - Project Title: Predictive Maintenance for Non-Road Mobile Machinery\
 Timeframe: September 2026 - August 2028\
@@ -207,6 +210,7 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 - 2022-2024 PhD student representative in Faculty Research Council (OZC)
 
 ## Awards and Honours
+- Our paper “Probabilistic Camera Distortion Correction Using Deep Gaussian Processes” was selected for the cover story of JImaging, Volume 12, Issue 7 (July 2026).
 - I won the audience award for my pitch on Gauss as GOAT @MathFest24.
 - Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
 - Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022)
