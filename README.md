@@ -165,9 +165,10 @@ Publication number: WO2022/122834
 
 
 ## Invited Talks
+- 21/10/26, Deep Gaussian processes, Bayesian Optimization Workshop at BNAIC (NL)
 - 27/3/26, Gaussian Processes, Eindhoven University of Technology (NL), 16 attendees
 - 18/12/25, Introduction to Gaussian Processes, University of Namur, 30 attendees
-- 08/09/25, Constraints on GP Predictions, Gaussian Process Summer School 2025, University of Manchester, 40 attendees
+- 08/09/25, Constraints on GP Predictions, Gaussian Process Summer School 2025, University of Manchester (UK), 40 attendees
 - 25/08/25, Bayesian Optimisation Summer School 2025, Hasselt University, 30 attendees
 - 20/01/25, How to do more with uncertainty in AI, Applied Computer Science Conference Days, Karel de Grote University College, >100 attendees
 - 4/12/24, How to Exploit Uncertainty in AI for XR development, Multimedia and Creative Technologies, Karel de Grote University College, >100 attendees
