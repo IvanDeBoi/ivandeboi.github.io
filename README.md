@@ -233,6 +233,10 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 ### A1 Journal
 
+Accepted but not yet published - Beyond Euclidean: A Conceptual Review of Distance Metrics and Dissimilarity Measures in Contemporary Machine Learning, Ivan De Boi, Simon Lejoly, Rudi Penne, Athens journal of sciences, [https://www.athensjournals.gr/ajs/forthcoming ](https://www.athensjournals.gr/ajs/forthcoming )
+
+Accepted but not yet published - Implicit Multi-Camera System Calibration Using Gaussian Processes, Ivan De Boi, Bart Ribbens, Veronika Golanova, Ursula Kapov, Simon Verspeek,  Machine Vision and Applications, https://link.springer.com/journal/138, IF 2.3, preprint https://arxiv.org/abs/2605.07491 
+
 Probabilistic Camera Distortion Correction Using Deep Gaussian Processes, Ivan De Boi, Rhys G. Evans, Stuti Pathak, Thomas De Kerf, Marnix Van Soom, Sam Van der Jeught, Helder Araújo, and Rudi Penne. 2026. Journal of Imaging 12, no. 7: 296. [https://doi.org/10.3390/jimaging12070296](https://doi.org/10.3390/jimaging12070296)
 
 A Unified Complex-Fresnel Model for Physically Based Long-Wave Infrared Imaging and Simulation,
