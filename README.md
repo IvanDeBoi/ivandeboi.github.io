@@ -221,7 +221,7 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 ## Reviewing Activities
 - IEEE Transactions on Instrumentation and Measurement
 - Elsevier Measurement
-- Springer Autonomous Intelligent Systems and Springer Nonlinear Dynamics
+- Springer Autonomous Intelligent Systems
 - Springer Nonlinear Dynamics
 - International Conference on Control, Mechatronics and Automation (editions 2024, 2025, 2026), [ICCMA](https://www.iccma.org/committee.html)
 - BMVC 2025, The 36th British Machine Vision Conference
