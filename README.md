@@ -181,7 +181,6 @@ Publication number: WO2022/122834
 ## Conference Talks
 - 30/6/26, Beyond Euclidean: A Conceptual Review of Distance Metrics and Dissimilarity Measures in Contemporary Machine Learning, 20th Annual International Conference on Mathematics: Teaching, Theory & Applications, Athens (Greece)
 - 15/07/25, The creation of ruled surfaces in a hall of mirrors, Bridges 2025 : Mathematics and the Arts, 40 attendees
-- 22/10/24, Gauss is GOAT @Mathfest24, 100 attendees
 - 27/11/23, How to turn your camera into a perfect pinhole model, 26th Iberoamerican Congress on Pattern Recognition at Coimbra (Portugal), 80 attendees
 - 5/10/23, How to get more out of endoscopic images, Cancer Research Day, University of Antwerp, 100 attendees
 - 7/4/22, How to improve the accuracy of laser-based systems using straight lines, Metromeet conference (Spain), 50 attendees
@@ -190,6 +189,8 @@ Publication number: WO2022/122834
 - 18/4/18, ImmersiMed: a future-proof immersive platform for medical training at the SciFi-It conference 20 attendees
 
 ## Science Communication
+- 22/11/26, Van Riemann tot Riemann, muziek op een donut, Mathfest, 75 attendees
+- 22/10/24, Gauss is GOAT, Mathfest, 80 attendees
 - 4/03/24, AI skeleton tracking fitness mirror, Flanders Technology and Innovation closing event, >1000 attendees
 - 24/11/19, Dag van de wetenschap, VR demonstration ImmersiMed, an application to train medical personnel, >1000 attendees
 - 29/9-30/9 18, ImmersiMed, Tech and Innovation Festival SuperNova, Flanders DC, >2000 attendees
@@ -213,7 +214,7 @@ In December 2019 we launched an interdisciplinary interest group regarding the p
 
 ## Awards and Honours
 - Our paper “Probabilistic Camera Distortion Correction Using Deep Gaussian Processes” was selected for the cover story of JImaging, Volume 12, Issue 7 (July 2026).
-- I won the audience award for my pitch on Gauss as GOAT @MathFest24.
+- I won the audience award for my pitch on Gauss as GOAT at MathFest 2024.
 - Best paper award for my paper "IMMERSIMED: A Future-Proof Immersive Platform for Medical Training" at the SCIFI-IT’2018 Conference (April 18-20 2018).
 - Our paper "Dynamic Line Scan Thermography Parameter Design via Gaussian Process Emulation" was selected for the cover story of Algorithms, Volume 15, Issue 4 (April 2022)
 - In 2019, I received the audience best project award (publieksprijs) "Prijs Frank Swaelen", at the Karel de Grote Hogeschool congress for my Innovation Project "ImmersiMed - training hospital procedures in VR". 
